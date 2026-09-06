@@ -1,0 +1,51 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual envs
+.venv/
+venv/
+ENV/
+
+# Secrets & local env
+.env
+.env.*
+!.env.example
+*.pem
+credentials*.json
+secrets/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Thinktank seat logs / local dispatch noise
+docs/thinktank/**/*.log
+docs/thinktank/**/*.status
+docs/thinktank/**/*.exit
+docs/thinktank/**/*.dispatch_pid
+docs/thinktank/**/codex.*
+docs/thinktank/**/agy.*
+docs/thinktank/**/claude.*
+docs/thinktank/**/cursor.*
+docs/thinktank/**/droid_*
+
+*.swp
+
+# Local agent / tool state (do not publish)
+.cursor/
+.claude/
+*.log
+
+# Data dumps that may contain PII (keep schemas only)
+data/private/

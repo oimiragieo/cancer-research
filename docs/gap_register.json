@@ -1,0 +1,46 @@
+{
+  "updated": "2026-09-05T23:20:00-04:00",
+  "architecture": "Hybrid-D",
+  "open": [],
+  "deferred_with_evidence": [
+    {
+      "id": "pdac-neoantigen-vaccine-cure",
+      "dossier": "design/gaps/pdac-neoantigen-vaccine.md",
+      "note": "Ph1 immune-responder RFS signal; IMCODE003 NCT05968326 RECRUITING randomized — Results absent"
+    },
+    {
+      "id": "gbm-neoadjuvant-io",
+      "dossier": "design/gaps/gbm-neoadjuvant-io.md",
+      "note": "Case-level Nature Med 2025; GIANT NCT06816927 planned — not Ph3 OS proof"
+    },
+    {
+      "id": "tnbc-neoantigen-vaccine",
+      "dossier": "design/gaps/tnbc-neoantigen-vaccine.md",
+      "note": "Ph1 adjuvant durable T-cell responses; metastatic randomized efficacy unproven"
+    },
+    {
+      "id": "solid-tumor-cart-barriers",
+      "dossier": "design/gaps/solid-tumor-cart.md",
+      "note": "Hema cure-adjacent CAR-T proven; solid TME/antigen heterogeneity still open"
+    },
+    {
+      "id": "cure-evidence-epistemics",
+      "dossier": "design/gaps/cure-evidence-epistemics.md",
+      "note": "MRD/CR/pCR are surrogates; cure = durable TFR/survival plateau with assay honesty"
+    }
+  ],
+  "closed": [
+    {
+      "id": "scaffold-repo",
+      "note": "Forked from live-forever; retargeted Hybrid D oncology Ralph engine"
+    },
+    {
+      "id": "hema-cure-adjacent-banked",
+      "note": "ALL blina E1910, CD19 CAR-T class, CML TFR, pediatric ALL chemo — existence proofs banked"
+    },
+    {
+      "id": "thinktank-architecture",
+      "note": "Codex seat RECOMMENDED D Hybrid 2026-09-05; Exa agent_run climb order aligned"
+    }
+  ]
+}

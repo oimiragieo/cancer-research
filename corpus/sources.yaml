@@ -1,0 +1,553 @@
+meta:
+  generated: '2026-09-05'
+  method: Exa web_search_exa + Exa agent_run + thinktank D Hybrid
+  invented_citations: false
+  domain: oncology-cure-research
+sources:
+- id: hanahan-weinberg-2011
+  title: Hallmarks of Cancer — The Next Generation
+  url: https://www.cell.com/cell/fulltext/S0092-8674(11)00127-9
+  year: 2011
+  topics: [hallmarks, framework]
+  confidence: high
+  summary: "Ten hallmarks map of cancer biology; foundational ultra-design spine for modality coverage."
+- id: hanahan-2022-hallmarks
+  title: Hallmarks of Cancer — New Dimensions
+  url: https://aacrjournals.org/cancerdiscovery/article/12/1/31/675608
+  year: 2022
+  topics: [hallmarks, unlocking-phenotypic-plasticity, nonmutational-epigenetic]
+  confidence: high
+  summary: "Adds emerging dimensions (plasticity, senescent cells, polymorphic microbiomes, epigenetic reprogramming)."
+- id: nejm-2023-blinatumomab-e1910
+  title: Blinatumomab for MRD-Negative Acute Lymphoblastic Leukemia in Adults
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2312948
+  year: 2023
+  topics: [cure-adjacent, ALL, bispecific, MRD]
+  confidence: high
+  summary: "Ph3 E1910 NCT02003222 — blina + chemo consolidation improved 3y OS 85% vs 68% in MRD-neg BCP-ALL (curative-intent)."
+- id: fda-tisagenlecleucel-all
+  title: FDA Kymriah (tisagenlecleucel) labeling — pediatric/YA BCP-ALL
+  url: https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/kymriah-tisagenlecleucel
+  year: 2017
+  topics: [CAR-T, ALL, cure-adjacent, FDA]
+  confidence: high
+  summary: "First FDA-approved CD19 CAR-T; ELIANA supports durable remissions with CRS/neurotoxicity risks."
+- id: eliana-long-term
+  title: Tisagenlecleucel in children and young adults with B-cell ALL (ELIANA long-term)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1709866
+  year: 2018
+  topics: [CAR-T, ALL, durable-remission]
+  confidence: high
+  summary: "Pivotal ELIANA — high CR/MRD-neg rates; subset long-term survivors; not universal cure."
+- id: zuma3-brexu-all
+  title: FDA Approval Summary — Brexucabtagene Autoleucel for Adult R/R BCP-ALL
+  url: https://doi.org/10.1093/oncolo/oyac163
+  year: 2022
+  topics: [CAR-T, ALL, FDA]
+  confidence: high
+  summary: "ZUMA-3 — ~52% CR in FDA-reviewed set; durable remission possible; single-arm limits cure claims."
+- id: nature-2024-car-t-atlas-remission
+  title: Single-cell CAR T atlas reveals type 2 function in 8-year leukaemia remission
+  url: https://www.nature.com/articles/s41586-024-07762-w
+  year: 2024
+  topics: [CAR-T, durable-remission, follicular-lymphoma]
+  confidence: high
+  summary: "Long-term tisagenlecleucel follow-up reports substantial OS/PFS fractions disease-free; single-arm context."
+- id: fda-liso-mcl
+  title: FDA Statistical Review — Breyanzi (liso-cel) in Mantle Cell Lymphoma
+  url: https://www.fda.gov/media/179342/download
+  year: 2024
+  topics: [CAR-T, MCL, FDA]
+  confidence: high
+  summary: "ORR 85.3% CR 67.6%; DoR estimates ~58% at 12mo among CRs — high durable-remission modality."
+- id: nejm-2018-cd19-cart-all-longterm
+  title: Long-Term Follow-up of CD19 CAR Therapy in ALL
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1709919
+  year: 2018
+  topics: [CAR-T, ALL, disease-burden]
+  confidence: high
+  summary: "Lower pretreatment burden associated with better survival; proof-of-principle cure in selected patients."
+- id: car-prism-cilta-hr-smm-2026
+  title: Cilta-cel in high-risk smoldering myeloma — CAR-PRISM phase 2
+  url: https://www.nature.com/articles/s41591-026-04365-y
+  year: 2026
+  topics: [CAR-T, myeloma, MRD, curative-intent]
+  confidence: high
+  summary: "NCT05767359 — 20 pts; 100% MRD-neg 10^-6 by mo2; no progression at median 15.3mo FU; early-disease cure hypothesis."
+- id: zuma14-axi-ritux-2026
+  title: Axi-cel plus rituximab for refractory LBCL — ZUMA-14
+  url: https://www.nature.com/articles/s43018-025-01102-1
+  year: 2026
+  topics: [CAR-T, LBCL, dual-antigen, antigen-escape]
+  confidence: high
+  summary: "NCT04002401 — CR 73%; median DOR 26mo; dual CD19/CD20 strategy vs antigen escape."
+- id: lotis5-zynlonta-2026
+  title: LOTIS-5 Ph3 ZYNLONTA + rituximab in r/r DLBCL topline
+  url: https://ir.adctherapeutics.com/2026-06-03-ADC-Therapeutics-Announces-Results-From-LOTIS-5-Phase-3-Confirmatory-Clinical-Trial-of-ZYNLONTA-R-in-Combination-with-Rituximab-in-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma
+  year: 2026
+  topics: [ADC, DLBCL, Ph3]
+  confidence: high
+  summary: "Ph3 PFS win HR 0.73; higher CR/DoCR vs R-GemOx; confirmatory for accelerated ADC — not a cure claim."
+- id: monumental6-tec-tal-2026
+  title: TECVAYLI + TALVEY MonumenTAL-6 Ph3 dual BCMA/GPRC5D
+  url: https://www.prnewswire.com/news-releases/tecvayli--talvey-reduced-the-risk-of-disease-progression-or-death-by-89-and-the-risk-of-death-by-62-in-earlier-line-relapsedrefractory-multiple-myeloma-302833309.html
+  year: 2026
+  topics: [bispecific, myeloma, dual-antigen]
+  confidence: medium
+  summary: "Press topline HR 0.11 PFS / 0.38 OS vs SOC; dual-antigen off-the-shelf — bank when peer-reviewed tables land."
+- id: nature-2025-pdac-mrna-vaccine
+  title: RNA neoantigen vaccines prime long-lived CD8+ T cells in pancreatic cancer
+  url: https://www.nature.com/articles/s41586-024-08508-4
+  year: 2025
+  topics: [vaccine, PDAC, neoantigen, near-curative]
+  confidence: high
+  summary: "Ph1 n=16 resected PDAC; immune responders RFS NR vs 13.4mo nonresponders at 3.2y; correlation not causation."
+- id: nct05968326-imcode003
+  title: IMCODE003 — adjuvant autogene cevumeran + atezo + mFFX vs mFFX (resected PDAC)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2023
+  topics: [PDAC, vaccine, randomized, sentinel]
+  confidence: high
+  summary: "Ph2 randomized RECRUITING (n~260); primary DFS; Results NOT posted — COMPLETED≠Results law applies when status flips."
+- id: nature-med-2025-gbm-neoadjuvant-triplet
+  title: Neoadjuvant triplet immune checkpoint blockade in newly diagnosed glioblastoma
+  url: https://www.nature.com/articles/s41591-025-03512-1
+  year: 2025
+  topics: [GBM, neoadjuvant, IO, case-level]
+  confidence: medium
+  summary: "Compelling single-patient neoadjuvant nivo+ipi+relatlimab signal; GIANT NCT06816927 planned — not efficacy proof."
+- id: nature-2025-tnbc-mrna-vaccine
+  title: Individualized mRNA vaccines evoke durable T cell immunity in adjuvant TNBC
+  url: https://www.nature.com/articles/s41586-025-10004-2
+  year: 2025
+  topics: [TNBC, vaccine, neoantigen]
+  confidence: high
+  summary: "Ph1 n=14 early TNBC; durable T-cell responses; 11 relapse-free up to 6y; 3 recurred — not metastatic cure trial."
+- id: nct06324240-tnbc-vaccine
+  title: Personalized vaccine immunotherapy + CPI for TNBC
+  url: https://clinicaltrials.gov/study/NCT06324240
+  year: 2024
+  topics: [TNBC, vaccine, early-phase]
+  confidence: medium
+  summary: "Early-phase personalized tumor-membrane-vesicle vaccine + pembro/ipi; efficacy unproven."
+- id: cartitude1-cilta-rrmm
+  title: Cilta-cel in relapsed/refractory multiple myeloma (CARTITUDE-1)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2102600
+  year: 2021
+  topics: [CAR-T, myeloma, BCMA]
+  confidence: high
+  summary: "Deep responses in heavily pretreated RRMM; most eventually progress — durable subset ≠ population cure."
+- id: cartitude4-earlier-line
+  title: Cilta-cel vs SOC in len-refractory myeloma (CARTITUDE-4)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2303379
+  year: 2023
+  topics: [CAR-T, myeloma, earlier-line]
+  confidence: high
+  summary: "Earlier-line cilta-cel improves PFS vs SOC; still not treatment-free cure claim for all."
+- id: zuma1-axi-lbcl
+  title: Axicabtagene ciloleucel CAR-T in refractory large B-cell lymphoma (ZUMA-1)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1707447
+  year: 2017
+  topics: [CAR-T, LBCL, durable-remission]
+  confidence: high
+  summary: "Pivotal axi-cel; long-term plateau in subset; CD19-neg relapse ~30% motivates dual targeting."
+- id: zuma7-2l-lbcl
+  title: Axi-cel as second-line therapy for large B-cell lymphoma (ZUMA-7)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2116133
+  year: 2022
+  topics: [CAR-T, LBCL, earlier-line]
+  confidence: high
+  summary: "EFS benefit vs SOC chemoimmunotherapy in early relapse/refractory LBCL."
+- id: transcend-nhl-liso
+  title: Lisocabtagene maraleucel in R/R large B-cell lymphomas (TRANSCEND)
+  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31366-0/fulltext
+  year: 2020
+  topics: [CAR-T, LBCL]
+  confidence: high
+  summary: "Liso-cel registration dataset; high ORR/CR with manageable toxicity profile."
+- id: majestec3-teclistamab
+  title: Teclistamab in relapsed or refractory multiple myeloma
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2203478
+  year: 2022
+  topics: [bispecific, myeloma, BCMA]
+  confidence: high
+  summary: "Off-the-shelf BCMA×CD3 bispecific deep responses; infection risk load-bearing."
+- id: monumentalt1-talquetamab
+  title: Talquetamab GPRC5D×CD3 in R/R myeloma
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2204591
+  year: 2022
+  topics: [bispecific, myeloma, GPRC5D]
+  confidence: high
+  summary: "Non-BCMA TCE class enables dual-antigen sequencing with teclistamab."
+- id: destinystep02-tdxd
+  title: Trastuzumab deruxtecan in HER2-low breast cancer (DESTINY-Breast04)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2203690
+  year: 2022
+  topics: [ADC, breast, HER2-low]
+  confidence: high
+  summary: "ADC expands beyond HER2-high; PFS/OS gains — metastatic cure still rare."
+- id: keynote522-tnbc
+  title: Pembrolizumab + chemo in early TNBC (KEYNOTE-522)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1911048
+  year: 2020
+  topics: [TNBC, IO, neoadjuvant, pCR]
+  confidence: high
+  summary: "pCR and EFS improvements in early TNBC; pCR is surrogate — long-term cure fraction still climbing."
+- id: checkmate067-melanoma
+  title: Nivolumab + ipilimumab in advanced melanoma (CheckMate 067 long-term)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1910836
+  year: 2019
+  topics: [melanoma, IO, survival-plateau]
+  confidence: high
+  summary: "Long-term OS plateau for combo CPI — textbook durable immunotherapy cure-fraction signal."
+- id: swog-s1801-melanoma-brain
+  title: Neoadjuvant vs adjuvant pembrolizumab in resectable melanoma
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2211437
+  year: 2023
+  topics: [melanoma, neoadjuvant, IO]
+  confidence: high
+  summary: "Neoadjuvant pembro improves EFS vs adjuvant-only — timing of IO load-bearing."
+- id: tip-1-testicular-curative
+  title: Chemotherapy of disseminated testicular cancer — curative paradigm
+  url: https://pubmed.ncbi.nlm.nih.gov/615307/
+  year: 1977
+  topics: [germ-cell, curative-chemo, historical]
+  confidence: high
+  summary: "Historical proof that systemic therapy can cure metastatic solid cancer (GCT paradigm)."
+- id: einhorn-gct-curative
+  title: Treatment of disseminated germ-cell tumors with cisplatin regimens
+  url: https://pubmed.ncbi.nlm.nih.gov/2429245/
+  year: 1981
+  topics: [germ-cell, curative-chemo]
+  confidence: high
+  summary: "Cisplatin-based regimens establish metastatic solid-tumor cure as achievable class."
+- id: all-childhood-chemo-cure
+  title: Childhood ALL multiagent chemotherapy cure history
+  url: https://www.nejm.org/doi/full/10.1056/NEJMra1400972
+  year: 2015
+  topics: [ALL, curative-chemo, pediatric]
+  confidence: high
+  summary: "Pediatric ALL cure rates >90% with risk-adapted chemo — existence proof of population-level cure."
+- id: cml-tki-treatment-free
+  title: Treatment-free remission after TKI in chronic myeloid leukemia
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1600167
+  year: 2017
+  topics: [CML, TKI, treatment-free-remission]
+  confidence: high
+  summary: "Deep molecular response enables TFR in subset — functional cure concept for oncogene-addicted disease."
+- id: imatinib-cml-iriss
+  title: Long-term outcomes of imatinib in CML
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa066958
+  year: 2006
+  topics: [CML, targeted, TKI]
+  confidence: high
+  summary: "Foundational targeted therapy converting fatal leukemia to chronic manageable / sometimes TFR disease."
+- id: her2-trastuzumab-adjuvant
+  title: Trastuzumab after adjuvant chemo in HER2+ breast cancer
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa052306
+  year: 2005
+  topics: [breast, HER2, targeted, adjuvant]
+  confidence: high
+  summary: "Adjuvant trastuzumab reduces recurrence — curative-intent early disease paradigm."
+- id: egfr-osi-adaura
+  title: Osimertinib in resected EGFR-mutant NSCLC (ADAURA)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2027071
+  year: 2020
+  topics: [NSCLC, EGFR, adjuvant, targeted]
+  confidence: high
+  summary: "Adjuvant osimertinib DFS benefit; OS later positive — molecular adjuvant cure-intent."
+- id: alk-alectinib-alex
+  title: Alectinib vs crizotinib in ALK+ NSCLC
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1704795
+  year: 2017
+  topics: [NSCLC, ALK, targeted]
+  confidence: high
+  summary: "CNS-active ALK TKI deep durable responses; resistance still emerges."
+- id: krascoden-sotorasib
+  title: Sotorasib for KRAS G12C NSCLC
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2103695
+  year: 2021
+  topics: [NSCLC, KRAS, targeted]
+  confidence: high
+  summary: "First KRAS G12C inhibitor class; responses real but resistance/short DOR limit cure claims."
+- id: pdac-mffx-prodige
+  title: FOLFIRINOX adjuvant for pancreatic cancer (PRODIGE 24)
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa1809775
+  year: 2018
+  topics: [PDAC, chemo, adjuvant]
+  confidence: high
+  summary: "mFOLFIRINOX SOC adjuvant backbone that IMCODE003 builds on; recurrence still common."
+- id: gbm-stupp-protocol
+  title: Radiotherapy plus concomitant and adjuvant temozolomide for GBM
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa043330
+  year: 2005
+  topics: [GBM, chemoRT, SOC]
+  confidence: high
+  summary: "Stupp protocol SOC; MGMT methylation predicts benefit; durable cures rare in IDH-wt."
+- id: gbm-ef-14-ttfields
+  title: Tumor-treating fields with temozolomide in GBM (EF-14)
+  url: https://jamanetwork.com/journals/jama/fullarticle/2666504
+  year: 2017
+  topics: [GBM, TTFields]
+  confidence: high
+  summary: "OS gain with TTFields; incremental not curative for most IDH-wt GBM."
+- id: mirati-adagrasib-kras
+  title: Adagrasib in KRAS G12C-mutated cancers
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2204619
+  year: 2022
+  topics: [KRAS, targeted, pan-tumor]
+  confidence: high
+  summary: "Second G12C inhibitor; resistance biology central to solid-tumor cure gap."
+- id: car-t-solid-review-2024
+  title: CAR T cells for solid tumors — barriers and engineering
+  url: https://www.nature.com/articles/s41571-024-00870-6
+  year: 2024
+  topics: [CAR-T, solid-tumor, antigen-escape, TME]
+  confidence: high
+  summary: "Reviews trafficking/TME/heterogeneity barriers explaining hema vs solid cure gap."
+- id: adc-review-2024
+  title: Antibody-drug conjugates in cancer therapy — clinical map
+  url: https://www.nature.com/articles/s41571-023-00809-4
+  year: 2023
+  topics: [ADC, modality-map]
+  confidence: high
+  summary: "ADC modality landscape; payload/linker/target selection for solid tumors."
+- id: neoantigen-vaccine-review
+  title: Personalized neoantigen cancer vaccines — state of the field
+  url: https://www.nature.com/articles/s41571-024-00896-w
+  year: 2024
+  topics: [vaccine, neoantigen, modality-map]
+  confidence: high
+  summary: "Maps mRNA/peptide/DNA vaccine platforms; PDAC/TNBC signals motivate sentinel climb."
+- id: mrd-assay-honesty
+  title: Measurable residual disease in hematologic malignancies — assay caveats
+  url: https://www.nature.com/articles/s41571-023-00733-7
+  year: 2023
+  topics: [MRD, assay, epistemics]
+  confidence: high
+  summary: "MRD is assay/timepoint/denominator-dependent — never collapse to binary cured."
+- id: fda-cart-secondary-tcell
+  title: FDA investigates secondary T-cell malignancies after CAR-T
+  url: https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-serious-risk-t-cell-malignancy-following-bcma-directed-or-cd19-directed-autologous
+  year: 2023
+  topics: [CAR-T, safety, secondary-malignancy]
+  confidence: high
+  summary: "Safety bank — cure-adjacent modalities carry secondary malignancy risk; disclose in dossiers."
+- id: antigen-escape-cart
+  title: Mechanisms of antigen escape after CD19 CAR-T
+  url: https://www.nature.com/articles/s41571-020-0427-6
+  year: 2020
+  topics: [antigen-escape, resistance, CAR-T]
+  confidence: high
+  summary: "CD19 loss/modulation drives relapse; dual-targeting (ZUMA-14 class) is direct countermeasure."
+- id: tme-exclusion-review
+  title: Cancer immunology and the tumor microenvironment exclusion phenotypes
+  url: https://www.nature.com/articles/s41568-023-00552-y
+  year: 2023
+  topics: [TME, IO-resistance, solid-tumor]
+  confidence: high
+  summary: "Immune-excluded/desert phenotypes explain CPI failure in PDAC/GBM-class tumors."
+- id: pancreatic-stroma-barrier
+  title: Pancreatic cancer stroma and immunotherapy resistance
+  url: https://www.nature.com/articles/s41571-021-00515-y
+  year: 2021
+  topics: [PDAC, stroma, IO-resistance]
+  confidence: high
+  summary: "Desmoplastic stroma + low neoantigen load as dual barriers; vaccine+IO+chemo stack rationale."
+- id: gbm-immune-privilege
+  title: Immunosuppressive microenvironment of glioblastoma
+  url: https://www.nature.com/articles/s41571-020-00455-z
+  year: 2021
+  topics: [GBM, TME, steroids]
+  confidence: high
+  summary: "BBB, steroids, myeloid suppression — neoadjuvant window strategy motivation."
+- id: cure-fraction-stats
+  title: Estimating the cure fraction in cancer survival models
+  url: https://onlinelibrary.wiley.com/doi/10.1002/sim.4788
+  year: 2012
+  topics: [statistics, cure-fraction, epistemics]
+  confidence: medium
+  summary: "Statistical cure-fraction models — use for endpoint honesty, not marketing."
+- id: nci-seer-survival
+  title: SEER cancer survival statistics overview
+  url: https://seer.cancer.gov/statistics/
+  year: 2025
+  topics: [epidemiology, survival, sentinel]
+  confidence: high
+  summary: "Population survival baselines for sentinel cancers; context for climb prioritization."
+- id: ctgov-transparency-law
+  title: ClinicalTrials.gov results reporting requirements
+  url: https://clinicaltrials.gov/policy/results-information-submission
+  year: 2024
+  topics: [trial-transparency, COMPLETED-neq-Results]
+  confidence: high
+  summary: "Registry COMPLETED does not equal Results posted — core Ralph law for oncology pins."
+- id: thinktank-d-hybrid-2026-09-05
+  title: Thinktank design decision — Hybrid D cancer Ralph architecture
+  url: https://github.com/local/cancer-research/docs/thinktank/cancer-ralph-design/codex.log
+  year: 2026
+  topics: [meta, architecture, ralph]
+  confidence: medium
+  summary: "Codex seat RECOMMENDED D Hybrid; cure_def = durable TFR/survival plateau with NCT provenance."
+- id: biontech-2026-crc-bnt122-terminated
+  title: BioNTech terminates Ph2 autogene cevumeran adjuvant CRC trial BNT122-01
+  url: https://www.biontech.com/us/en/home/mediaroom/news/statements/2026/08/BioNTech-Provides-Update-on-Phase-2-Clinical-Trial-of-Autogene-Cevumeran-in-Resected-Colorectal-Cancer.html
+  year: 2026
+  topics: [vaccine, CRC, negative, adjacency-filter]
+  confidence: high
+  summary: "DSMB recommended terminate NCT04486378 (ctDNA+ resected CRC monotherapy); OS imbalance; IMCODE003 PDAC combo continues — CRC fail ≠ invent PDAC outcome."
+- id: aacr-2026-car-prism-ct103
+  title: AACR CT103 — CAR-PRISM cilta-cel in HR-SMM complete cohort
+  url: https://doi.org/10.1158/1538-7445.am2026-ct103
+  year: 2026
+  topics: [CAR-T, myeloma, MRD, curative-intent]
+  confidence: high
+  summary: "Abstract CT103 — 20/20 MRD-neg 10^-6 by mo2; 6 pts >18mo still MRD-neg; dose cut to 0.3e6 for NINTs; longer FU still required for cure claim."
+- id: aacr-news-car-prism-2026
+  title: AACR news — BCMA CAR-T may be effective in high-risk SMM
+  url: https://www.aacr.org/about-the-aacr/newsroom/news-releases/bcma-directed-car-t-cell-therapy-may-be-effective-against-high-risk-smoldering-multiple-myeloma/
+  year: 2026
+  topics: [CAR-T, myeloma, press]
+  confidence: medium
+  summary: "AACR news summary of CAR-PRISM; investigators hope durability reaches cure language — bank as medium pending longer FU."
+- id: jco-2025-cartitude1-5yr
+  title: Long-term >=5 year remission after cilta-cel in CARTITUDE-1 RRMM
+  url: https://doi.org/10.1200/jco.2025.43.16_suppl.7507
+  year: 2025
+  topics: [CAR-T, myeloma, durable-remission]
+  confidence: high
+  summary: "JCO abstract 7507 — multi-year remissions in subset of heavily pretreated RRMM; supports cure-fraction in late disease but not population cure."
+- id: ctgov-nct04486378-crc-vaccine
+  title: ClinicalTrials.gov NCT04486378 BNT122-01 resected CRC autogene cevumeran
+  url: https://clinicaltrials.gov/study/NCT04486378
+  year: 2020
+  topics: [vaccine, CRC, NCT, negative]
+  confidence: high
+  summary: "Registry record for terminated CRC adjuvant monotherapy vaccine trial — bank for adjacency filter vs PDAC IMCODE003."
+- id: ctgov-nct06208150-monumental6
+  title: ClinicalTrials.gov NCT06208150 MonumenTAL-6 Tal-Tec vs Tal-P vs EPd/PVd
+  url: https://clinicaltrials.gov/study/NCT06208150
+  year: 2024
+  topics: [myeloma, bispecific, dual-antigen, Ph3, NCT]
+  confidence: high
+  summary: "Ph3 RECRUITING n~795; primary PFS; press topline HR 0.11 Tec-Tal — Results tables NOT posted (press≠peer review)."
+- id: nejm-2026-redirectt1-emd
+  title: Dual Targeting of Extramedullary Myeloma with Talquetamab and Teclistamab
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2514752
+  year: 2026
+  topics: [myeloma, bispecific, dual-antigen, peer-reviewed, EMD]
+  confidence: high
+  summary: "RedirecTT-1 Ph2 NCT04586426 — ORR 79% in true EMD; 12mo PFS 61% OS 74%; grade3/4 AE 76%; peer-reviewed dual BCMA/GPRC5D proof."
+- id: nejm-2024-redirectt1-rp2r
+  title: Talquetamab plus Teclistamab in Relapsed or Refractory Multiple Myeloma
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2406536
+  year: 2024
+  topics: [myeloma, bispecific, dual-antigen, RP2R]
+  confidence: high
+  summary: "RedirecTT-1 Ph1b/2 — RP2R Tal 0.8 mg/kg + Tec 3.0 mg/kg Q2W; ORR ~80%; high infection rate; grounds MonumenTAL-6 design."
+- id: ctgov-nct04384484-lotis5
+  title: ClinicalTrials.gov NCT04384484 LOTIS-5 Lonca-R vs R-GemOx DLBCL
+  url: https://clinicaltrials.gov/study/NCT04384484
+  year: 2020
+  topics: [ADC, DLBCL, Ph3, NCT]
+  confidence: high
+  summary: "Ph3 Active not recruiting n=440; primary completion ~Mar 2026; topline PFS HR 0.73 — full manuscript/KM still absent as of wake."
+- id: ctgov-nct06816927-giant
+  title: ClinicalTrials.gov NCT06816927 GIANT neoadjuvant nivo +/- relatlimab ndGBM
+  url: https://clinicaltrials.gov/study/NCT06816927
+  year: 2025
+  topics: [GBM, neoadjuvant, IO, NCT, sentinel]
+  confidence: high
+  summary: "Ph2 RECRUITING Duke; nivo +/- relatlimab perioperative — NOT ipi triplet; Results absent; primary feasibility/TIL biology not OS cure."
+- id: jco-2025-satri-cel-ct041
+  title: Satri-cel vs TPC in advanced G/GEJC — CT041-ST-01 primary results
+  url: https://doi.org/10.1200/jco.2025.43.16_suppl.4003
+  year: 2025
+  topics: [CAR-T, solid-tumor, CLDN18.2, randomized, gastric]
+  confidence: high
+  summary: "First confirmatory RCT of CAR-T in solid tumors (NCT04581473); mPFS 3.25 vs 1.77mo HR 0.366; OS trend HR 0.693 — not a cure plateau yet."
+- id: ctgov-nct07066995-msln-cldn-pdac
+  title: Dual-target MSLN + CLDN18.2 CAR-T in advanced PDAC NCT07066995
+  url: https://clinicaltrials.gov/study/NCT07066995
+  year: 2025
+  topics: [CAR-T, PDAC, dual-antigen, solid-tumor, NCT]
+  confidence: medium
+  summary: "Ph1/2 RECRUITING sequential dual CAR-T for metastatic PDAC; Results absent — solid dual-target climb pin."
+- id: lancet-2025-satri-cel-ct041
+  title: Satri-cel vs TPC in advanced G/GEJC CT041-ST-01 — Lancet phase 2 RCT
+  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00860-8/abstract
+  year: 2025
+  topics: [CAR-T, solid-tumor, CLDN18.2, randomized, peer-reviewed, gastric]
+  confidence: high
+  summary: "Lancet peer-reviewed first solid-tumor CAR-T RCT; mPFS 3.25 vs 1.77mo HR 0.37; mOS 7.92 vs 5.49 HR 0.69 (not statistically conclusive for cure); CRS 95%."
+- id: pubmed-40460847-satri-cel
+  title: PubMed 40460847 — satri-cel CT041-ST-01 Lancet abstract record
+  url: https://pubmed.ncbi.nlm.nih.gov/40460847/
+  year: 2025
+  topics: [CAR-T, solid-tumor, CLDN18.2, peer-reviewed]
+  confidence: high
+  summary: "PMID record confirming Lancet publication; first global RCT of CAR-T in solid tumors; third-line G/GEJC — PFS win, OS clinically meaningful not cure plateau."
+- id: natmed-2024-ct041-phase1-final
+  title: Claudin18.2-specific CAR T cells in GI cancers — phase 1 final results
+  url: https://www.nature.com/articles/s41591-024-03037-z
+  year: 2024
+  topics: [CAR-T, CLDN18.2, phase1, gastric, PDAC]
+  confidence: medium
+  summary: "Nat Med Ph1 final CT041; grounds satri-cel RCT; early GI activity including some PDAC — adjacency to PDAC dual-CAR climb, not invent PDAC RCT Results."
+- id: imcode003-still-recruiting-2026-09
+  title: IMCODE003 NCT05968326 still RECRUITING — wake #3 absence bank
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [PDAC, vaccine, negative, NCT]
+  confidence: high
+  summary: "As of 2026-09-05 Exa recheck: status RECRUITING; sites open; no interim DFS/Results posted — absence banked (searched as of date)."
+- id: ctgov-nct04581473-satri-cel
+  title: ClinicalTrials.gov NCT04581473 CT041-ST-01 satri-cel vs TPC
+  url: https://clinicaltrials.gov/study/NCT04581473
+  year: 2020
+  topics: [CAR-T, solid-tumor, NCT, gastric]
+  confidence: high
+  summary: "Registry for first solid CAR-T RCT; closed to new patients per Lancet; Results posting still secondary to Lancet manuscript."
+
+- id: monumental6-congress-km-still-absent-wake4
+  title: MonumenTAL-6 full KM/safety still absent after press (wake #4)
+  url: https://clinicaltrials.gov/study/NCT06208150
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "As of 2026-09-05 searched sources: ASH 2024 = trial-in-progress only; July 2026 press HR 0.11; no congress KM/medians/safety tables posted."
+- id: monumental6-ash2024-tip-not-results
+  title: ASH 2024 MonumenTAL-6 trial-in-progress abstract (not efficacy Results)
+  url: https://ash.confex.com/ash/2024/webprogram/Paper199752.html
+  year: 2024
+  topics: [myeloma, bispecific, TIP, adjacency-filter]
+  confidence: high
+  summary: "Protocol/design TIP with RP2R doses Tal 0.8 mg/kg Q2W + Tec 3.0 mg/kg Q4W — adjacency for design only; does not fill 2026 Ph3 KM tables."
+- id: lotis5-peer-reviewed-manuscript-still-absent-wake4
+  title: LOTIS-5 peer-reviewed primary manuscript still absent (wake #4)
+  url: https://clinicaltrials.gov/study/NCT04384484
+  year: 2026
+  topics: [ADC, DLBCL, negative, press-neq-peer]
+  confidence: high
+  summary: "Active not recruiting; June 2026 company topline PFS HR 0.73; no Blood/Lancet/Haematologica primary manuscript in searched sources as of 2026-09-05."
+- id: lotis5-jco-2024-tip-tps7097
+  title: LOTIS-5 JCO 2024 TPS7097 trial-in-progress (not confirmatory Results)
+  url: https://doi.org/10.1200/jco.2024.42.16_suppl.tps7097
+  year: 2024
+  topics: [ADC, DLBCL, TIP]
+  confidence: high
+  summary: "Methods TIP for Lonca-R vs R-GemOx — not the 2026 confirmatory efficacy paper."
+- id: imcode003-results-still-absent-wake4
+  title: IMCODE003 NCT05968326 still RECRUITING / Results absent (wake #4)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [PDAC, vaccine, negative, NCT]
+  confidence: high
+  summary: "Recheck 2026-09-05: RECRUITING; primary completion 2031; no interim DFS/Results in searched sources."
+- id: wake4-negatives
+  title: Ralph wake #4 negative bank summary
+  url: https://clinicaltrials.gov/study/NCT06208150
+  year: 2026
+  topics: [meta, ralph, negatives]
+  confidence: medium
+  summary: "Wake #4 banked three absences: MonumenTAL-6 KM, LOTIS-5 manuscript, IMCODE003 DFS — progress without inventing tables."
