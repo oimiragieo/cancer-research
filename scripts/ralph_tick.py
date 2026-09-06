@@ -14,9 +14,6 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from status import exit_criteria  # noqa: E402
 
 NEXT_QUERIES = [
-    "CAR-PRISM NCT05767359 24-month MRD durability update 2026",
-    "Satri-cel earlier-line CLDN18.2 CAR-T gastric ClinicalTrials.gov 2026",
-    "GIANT NCT06816927 safety lead-in go no-go relatlimab GBM 2026",
     "NCT07066995 mesothelin Claudin18.2 dual CAR-T PDAC first patient OR DLT 2026",
     "TNBC personalized neoantigen vaccine randomized OS NCT Results 2026",
     "RedirecTT-1 Haematologica extended follow-up EMD talquetamab teclistamab 2026",
@@ -25,6 +22,9 @@ NEXT_QUERIES = [
     "MonumenTAL-6 NCT06208150 ASH ASCO EHA congress full KM medians safety 2026",
     "LOTIS-5 NCT04384484 peer-reviewed manuscript loncastuximab rituximab Blood Lancet 2026",
     "IMCODE003 NCT05968326 interim DFS OR enrollment completed flip 2026",
+    "CAR-PRISM NCT05767359 24-month MRD durability update 2026",
+    "Satri-cel earlier-line CLDN18.2 CAR-T gastric ClinicalTrials.gov 2026",
+    "GIANT NCT06816927 safety lead-in go no-go relatlimab GBM 2026",
 ]
 
 

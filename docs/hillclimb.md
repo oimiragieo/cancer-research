@@ -54,3 +54,11 @@
 - Banked negatives: MonumenTAL-6 KM ABSENT; LOTIS-5 manuscript ABSENT; IMCODE003 Results ABSENT
 - Rotated NEXT_QUERIES toward CAR-PRISM 24mo / satri-cel earlier-line / GIANT lead-in
 
+
+## Tick 5 — 2026-09-06 (Ralph wake #5)
+
+- CAR-PRISM: 24mo dedicated durability update still ABSENT (median FU 15.3mo; 6 pts >18mo MRD-neg)
+- Satri-cel: **NMPA solid CAR-T approval banked**; earlier-line NCT06857786 / NCT05911217 / ASCO 1L-sequential press (n=5, medium)
+- GIANT: safety lead-in go/no-go still ABSENT (RECRUITING)
+- Rotated NEXT_QUERIES → dual PDAC CAR / TNBC vaccine / RedirecTT-1 extended FU
+

@@ -40,3 +40,25 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - JCO TPS7097 ≠ LOTIS-5 confirmatory paper
 - CRC BNT122-01 fail ≠ IMCODE003 outcome
 
+
+## Update (Ralph wake #5) — 2026-09-06
+
+### Researched
+- CAR-PRISM NCT05767359 24-month MRD durability
+- Satri-cel earlier-line CLDN18.2 (NCTs + NMPA + ASCO press)
+- GIANT NCT06816927 safety lead-in go/no-go
+
+### Banked progress
+- **NMPA satri-cel approval (Jun 2026)** — first solid-tumor CAR-T label (China; 3L+ G/GEJA) — existence proof of regulatory path; **not** a cure plateau
+- Earlier-line pins: NCT06857786 (adjuvant consolidation, not yet recruiting); NCT05911217 (PDAC adjuvant Ph1); ASCO 2026 1L-sequential Cohort 3 n=5 press (medium)
+
+### Negatives held
+- **CAR-PRISM:** dedicated mature 24mo full-cohort update ABSENT (Nat Med median FU 15.3mo; subset >18mo MRD-neg only)
+- **GIANT:** safety lead-in go/no-go still ABSENT; still RECRUITING
+- ASCO 1L satri press ≠ peer-reviewed KM for earlier-line RCT
+
+### Do not equate
+- Month-24 assessments in Nat Med text ≠ dedicated 24mo Results paper
+- NMPA 3L approval ≠ invent earlier-line cure
+- Press Cohort 3 n=5 ≠ population cure-fraction
+
