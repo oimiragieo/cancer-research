@@ -62,3 +62,11 @@
 - GIANT: safety lead-in go/no-go still ABSENT (RECRUITING)
 - Rotated NEXT_QUERIES → dual PDAC CAR / TNBC vaccine / RedirecTT-1 extended FU
 
+
+## Tick 6 — 2026-09-06 (Ralph wake #6)
+
+- NCT07066995 dual PDAC CAR: DLT/Results still ABSENT
+- TNBC: NCT03606967 metastatic vaccine RCT Results ABSENT; VITAL-TNBC NCT07652242 Ph1 recruiting banked
+- RedirecTT-1: Haematologica extended FU banked (EMD 16.3mo + Ph1b ~3yr durability)
+- Rotated NEXT_QUERIES → BNT122-01 / zolbetuximab-satri / MonumenTAL-6 KM
+

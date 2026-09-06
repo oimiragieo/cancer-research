@@ -608,3 +608,46 @@ sources:
   topics: [meta, ralph, negatives]
   confidence: medium
   summary: "Wake #5: CAR-PRISM 24mo dedicated update ABSENT; GIANT lead-in ABSENT; satri-cel earlier-line NCTs + NMPA approval banked without inventing cure."
+
+- id: nct07066995-dlt-still-absent-wake6
+  title: NCT07066995 dual MSLN/CLDN18.2 PDAC CAR-T DLT/Results still absent (wake #6)
+  url: https://clinicaltrials.gov/study/NCT07066995
+  year: 2026
+  topics: [CAR-T, PDAC, dual-antigen, negative, NCT]
+  confidence: high
+  summary: "Still RECRUITING as of 2026-09-06 searched sources; no first-patient or DLT tables posted — absence banked."
+- id: nct03606967-tnbc-vaccine-rct-results-absent
+  title: NCT03606967 metastatic TNBC neoantigen vaccine + dual CPI randomized — Results absent
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2021
+  topics: [TNBC, vaccine, randomized, metastatic, negative]
+  confidence: high
+  summary: "Ph2 RECRUITING nab-paclitaxel+durva+treme +/- personalized peptide vaccine; primary PFS; Results not posted as of wake #6."
+- id: nct07652242-vital-tnbc-saRNA
+  title: NCT07652242 VITAL-TNBC ITI-5000 saRNA vaccine Ph1 recruiting
+  url: https://clinicaltrials.gov/study/NCT07652242
+  year: 2026
+  topics: [TNBC, vaccine, early-phase, NCT]
+  confidence: medium
+  summary: "Ph1 RECRUITING stage II-III TNBC saRNA HERV-K/CT83; Results absent — earlier adjuvant climb pin not efficacy."
+- id: haematol-2026-redirectt1-emd-extended
+  title: RedirecTT-1 EMD extended FU — Haematologica P40 Tal+Tec
+  url: https://doi.org/10.3324/haematol.2026.s2.14055
+  year: 2026
+  topics: [myeloma, bispecific, dual-antigen, peer-reviewed, EMD]
+  confidence: high
+  summary: "mFU 16.3mo; ORR 77.8% >=CR 50%; 12mo PFS 55.6%; 12mo OS 73.8%; infection grade3/4 40% — extended dual-antigen pin."
+- id: haematol-2026-redirectt1-ph1b-3yr
+  title: RedirecTT-1 Ph1b ~3yr FU — Haematologica P38 Tal+Tec
+  url: https://doi.org/10.3324/haematol.2026.s2.14054
+  year: 2026
+  topics: [myeloma, bispecific, dual-antigen, durable-remission]
+  confidence: high
+  summary: "mFU 36.2mo at RP2R ORR 79.5% >=CR 61.4%; 36mo DOR 71.1%; 36mo PFS 57.9%; 36mo OS 73.9% — durable dual-bispecific signal."
+- id: wake6-bank
+  title: Ralph wake #6 bank summary
+  url: https://doi.org/10.3324/haematol.2026.s2.14055
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #6: PDAC dual CAR DLT absent; metastatic TNBC vaccine RCT Results absent; RedirecTT-1 Haematologica extended FU banked."

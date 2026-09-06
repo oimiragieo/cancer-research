@@ -62,3 +62,24 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - NMPA 3L approval ≠ invent earlier-line cure
 - Press Cohort 3 n=5 ≠ population cure-fraction
 
+
+## Update (Ralph wake #6) — 2026-09-06
+
+### Researched
+- NCT07066995 dual PDAC CAR first patient/DLT
+- TNBC personalized neoantigen vaccine randomized OS/Results
+- RedirecTT-1 Haematologica extended FU
+
+### Banked progress
+- **RedirecTT-1 Haematologica P40** EMD mFU 16.3mo ORR 77.8%; 12mo PFS 55.6%; 12mo OS 73.8%
+- **RedirecTT-1 Haematologica P38** Ph1b mFU 36.2mo RP2R 36mo DOR 71.1% / PFS 57.9% / OS 73.9%
+
+### Negatives held
+- NCT07066995 DLT/Results still ABSENT (RECRUITING)
+- NCT03606967 metastatic TNBC vaccine RCT Results still ABSENT
+- Nature TNBC-MERIT Ph1 already known — not a randomized OS win
+
+### Do not equate
+- Haematologica abstract supplement ≠ invent MonumenTAL-6 Ph3 medians
+- Adjuvant Ph1 MERIT ≠ metastatic RCT Results
+
