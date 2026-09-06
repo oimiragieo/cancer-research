@@ -1,0 +1,42 @@
+---
+description: Ralph hill-climb rules for cancer-research oncology corpus (cure pins, do-not-equate, GOAL_MET floor)
+alwaysApply: true
+---
+
+# cancer-research Ralph
+
+This repo is an oncology **cure research** engine. Literature + systems only — never DIY biotech, synthesis recipes, or personal dosing.
+
+## After GOAL_MET
+
+Continue hill-climbing. Prefer highest-value **unpublished** pins in `docs/reference/BACKLOG.md` and `scripts/ralph_tick.py` `NEXT_QUERIES`.
+
+## Anti-hallucination
+
+- Bank sister-indication / press / label ladders as **adjacency** only.
+- Never invent IMCODE003 DFS, MonumenTAL-6 medians, or solid CAR-T cure fractions from hema doses.
+- COMPLETED on CT.gov ≠ Results posted; stale lab pages ≠ Results.
+- Press topline ≠ peer-reviewed KM tables.
+- MRD/CR/pCR ≠ cured — store assay, sensitivity, timepoint, denominator.
+- Nature Med GBM case triplet ≠ GIANT nivo±relatlimab protocol.
+- CRC BNT122-01 termination ≠ invent PDAC IMCODE003 outcome.
+- Filter name collisions before banking NCT/drug pins.
+- Absence wording: **"no matching Results in searched sources as of DATE"** — not absolute nonexistence.
+- **Software closes software; clinics close clinical pins** — CI green ≠ invent outcomes.
+
+## Wake hygiene
+
+1. Research top `NEXT_QUERIES` (Exa / CT.gov). On tool-surface drift, rediscover — don't stall.
+2. Prefer `$env:TEMP\cr_wakeN.py` for multi-line appends (PowerShell mangling hazard).
+3. Append ≥3–5 sourced YAML entries; unique `## Tick N` in `docs/hillclimb.md`; dossier `## Update (Ralph wake #N)` on `design/gaps/cure-climb-board.md` (EOF only).
+4. Rotate researched queries to bottom of `NEXT_QUERIES`; then `validate_corpus.py` → `status.py` → `pytest`.
+5. Public `origin/master`: commit+push the **four** wake files (`$msg=…; git commit -m $msg` — no bash heredoc). No secrets.
+6. Prefer ASCII in PowerShell YAML; quote `summary:` values containing `:`. Bank explicit negatives when still absent.
+7. Stacked ticks → multi-wake catch-up same turn when feasible.
+8. Honor CEO **pause** — stop `start_ralph_loop.ps1` timer; do not run the next wake.
+
+**Dossier append:** only after unique `## Update (Ralph wake #N)` or at EOF. Never StrReplace bare "negatives held".
+
+## Retention
+
+Skill: `cancer-research-ralph-hillclimb`. Runbook: `docs/reference/JR_ANALYST_RUNBOOK.md`. Sentinel: `SENTINEL_BOARD.md`.

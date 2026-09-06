@@ -43,9 +43,18 @@ docs/thinktank/**/droid_*
 *.swp
 
 # Local agent / tool state (do not publish)
-.cursor/
 .claude/
 *.log
 
 # Data dumps that may contain PII (keep schemas only)
 data/private/
+# Cursor — keep Ralph rule + skill tracked (rest of .cursor ignored)
+.cursor/*
+!.cursor/rules/
+.cursor/rules/*
+!.cursor/rules/cancer-research-ralph.mdc
+!.cursor/skills/
+.cursor/skills/*
+!.cursor/skills/cancer-research-ralph-hillclimb/
+.cursor/skills/cancer-research-ralph-hillclimb/*
+!.cursor/skills/cancer-research-ralph-hillclimb/SKILL.md
