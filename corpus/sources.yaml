@@ -802,3 +802,39 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #10 rotation: TNBC RCT OS ABSENT; RedirecTT no newer than Haematologica; BNT122 OS tables ABSENT."
+
+- id: cmar-2026-cldn182-sequencing-reassessment
+  title: CMAR 2026 — CLDN18.2 modality sequencing after zolbetuximab (reassessment framework)
+  url: https://www.dovepress.com/cldn182-directed-therapeutics-in-gastric-and-gastroesophageal-junction-peer-reviewed-fulltext-article-CMAR
+  year: 2026
+  topics: [CLDN18.2, sequencing, zolbetuximab, satri-cel, review]
+  confidence: high
+  summary: "Peer review: post-zolbetuximab re-biopsy before next CLDN modality; satri-cel late-line Ph2-supported investigational; no prospective H2H zolbetuximab→satri-cel cure-fraction RCT."
+- id: natmed-2026-zolbetuximab-mfolfox-nivo-ph2
+  title: Nat Med 2026 — 1L zolbetuximab + mFOLFOX6 + nivolumab Ph2 CLDN18.2+ G/GEJ
+  url: https://doi.org/10.1038/s41591-026-04306-9
+  year: 2026
+  topics: [CLDN18.2, mAb, PD-1, gastric, Ph2]
+  confidence: high
+  summary: "Ph2 triplet positions zolbetuximab with chemo-IO; adjacency for satri sequencing only — not a CAR cure claim."
+- id: monumental6-congress-km-still-absent-wake11
+  title: MonumenTAL-6 congress KM/medians still ABSENT (wake #11)
+  url: https://kolpulse.com/kol-pulse-trial-profile-monumental6
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "Topline press HR PFS 0.11 / OS 0.38 still only; KOL Pulse notes no congress KM/medians/safety tables; press≠peer; hema≠solid."
+- id: lotis5-peer-manuscript-still-absent-wake11
+  title: LOTIS-5 peer manuscript still ABSENT (wake #11 recheck)
+  url: https://ir.adctherapeutics.com/2026-06-03-ADC-Therapeutics-Announces-Results-From-LOTIS-5-Phase-3-Confirmatory-Clinical-Trial-of-ZYNLONTA-R-in-Combination-with-Rituximab-in-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma
+  year: 2026
+  topics: [DLBCL, ADC, negative, press-neq-peer]
+  confidence: high
+  summary: "Recheck: company press topline only; Blood/Lancet-class peer KM manuscript still ABSENT."
+- id: wake11-bank
+  title: Ralph wake #11 bank summary
+  url: https://www.dovepress.com/cldn182-directed-therapeutics-in-gastric-and-gastroesophageal-junction-peer-reviewed-fulltext-article-CMAR
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #11: CLDN sequencing review + zolb+nivo Ph2 banked; MonumenTAL KM + LOTIS-5 peer manuscript still ABSENT."

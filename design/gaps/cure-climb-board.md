@@ -165,3 +165,24 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Hema EMD bispecific durability ≠ solid-tumor cure
 - TNBC Ph1 saRNA ≠ metastatic RCT OS win
 
+
+## Update (Ralph wake #11) — 2026-09-06
+
+### Researched
+- Zolbetuximab vs satri-cel sequencing / cure-fraction
+- MonumenTAL-6 congress KM
+- LOTIS-5 peer-reviewed manuscript
+
+### Banked progress
+- CMAR 2026 reassessment-based CLDN18.2 sequencing framework (post-zolbetuximab re-biopsy)
+- Nat Med 2026 Ph2 zolbetuximab + mFOLFOX6 + nivolumab 1L
+
+### Negatives held
+- No prospective H2H zolbetuximab→satri-cel cure-fraction RCT
+- MonumenTAL-6 congress KM/medians ABSENT (press HRs only)
+- LOTIS-5 peer manuscript ABSENT
+
+### Do not equate
+- Sequencing review ≠ invent satri 1L doses
+- Myeloma bispecific topline ≠ solid cure
+

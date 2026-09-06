@@ -102,3 +102,11 @@
 - BNT122-01: OS tables still ABSENT
 - Rotated NEXT_QUERIES → zolbetuximab-satri / MonumenTAL / LOTIS-5 manuscript
 
+
+## Tick 11 — 2026-09-06 (Ralph wake #11)
+
+- CLDN sequencing: CMAR reassessment framework + Nat Med zolb+nivo Ph2 banked
+- MonumenTAL-6: congress KM still ABSENT
+- LOTIS-5: peer manuscript still ABSENT
+- Rotated NEXT_QUERIES → IMCODE003 / CAR-PRISM mature 24mo / satri earlier-line
+
