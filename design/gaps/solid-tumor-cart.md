@@ -12,6 +12,7 @@ Engineered CAR-T/NK can achieve hema-like durable remissions in solid tumors.
 - Hema CD19/BCMA CAR-T: durable subset remissions (existence proof of cell Rx cure-adjacent)
 - Reviews 2024: trafficking, TME, antigen heterogeneity, exhaustion
 - **Satri-cel CT041-ST-01 (NCT04581473):** first confirmatory RCT of CAR-T in solid tumors (G/GEJC) — **Lancet 2025** peer-reviewed; mPFS 3.25 vs 1.77 mo (HR 0.37); mOS 7.92 vs 5.49 (HR 0.69) — **PFS win ≠ cure plateau**
+- **NMPA Jun 2026 approval** (China) for CLDN18.2+ HER2− G/GEJA ≥2 prior lines — first solid CAR-T label; earlier-line NCTs opened (NCT06857786 adjuvant; NCT05911217 PDAC adjuvant)
 - Dual MSLN/CLDN18.2 PDAC CAR-T NCT07066995 RECRUITING — Results absent
 - Nat Med Ph1 CT041 finals — early GI/PDAC signal; do not invent PDAC RCT from Ph1
 
