@@ -103,3 +103,25 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Zolbetuximab Ph3 mAb ≠ invent satri-cel 1L CAR doses
 - CRC BNT122 fail ≠ IMCODE003 PDAC outcome
 
+
+## Update (Ralph wake #8) — 2026-09-06
+
+### Researched
+- LOTIS-5 NCT04384484 peer manuscript hunt
+- IMCODE003 NCT05968326 interim DFS / enrollment flip
+- CAR-PRISM NCT05767359 24-month MRD durability
+
+### Banked progress
+- LOTIS-5 **press** topline: PFS win Lonca-R vs R-GemOx (HR 0.73); CR-remission-at-24mo signal in press (48.5% vs 16.7%) — hema ADC confirmatory, not solid cure
+- CAR-PRISM **Nature Medicine**: MRD 10^-6 universal; assessments include mo24 when reached; median FU 15.3mo
+
+### Negatives held
+- LOTIS-5 **peer-reviewed manuscript ABSENT** (press ≠ peer)
+- IMCODE003 still RECRUITING; DFS Results ABSENT
+- CAR-PRISM: mature 24mo survival-plateau / cure claim still premature (MRD ≠ cured)
+
+### Do not equate
+- LOTIS-5 DLBCL ADC ≠ invent solid-tumor cure
+- BNT122 CRC termination ≠ IMCODE003 PDAC failure
+- HR-SMM MRD-neg ≠ symptomatic myeloma cure fraction
+

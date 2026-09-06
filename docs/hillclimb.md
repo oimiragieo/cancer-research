@@ -78,3 +78,11 @@
 - MonumenTAL-6 KM still ABSENT on recheck
 - Rotated NEXT_QUERIES → LOTIS-5 / IMCODE003 / CAR-PRISM
 
+
+## Tick 8 — 2026-09-06 (Ralph wake #8)
+
+- LOTIS-5: press topline banked (PFS HR 0.73); peer manuscript still ABSENT
+- IMCODE003: still RECRUITING; interim DFS ABSENT
+- CAR-PRISM Nat Med: MRD assessments through mo24 when reached; median FU 15.3mo — progress not cure
+- Rotated NEXT_QUERIES → satri earlier-line / GIANT / dual PDAC CAR
+

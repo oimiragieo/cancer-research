@@ -694,3 +694,39 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #7: BNT122 OS tables absent; zolbetuximab Ph3 banked for CLDN18.2 sequencing context; MonumenTAL KM still absent."
+
+- id: lotis5-press-topline-jun2026
+  title: LOTIS-5 Lonca-R vs R-GemOx press topline PFS HR 0.73 (Jun 2026)
+  url: https://www.targetedonc.com/view/loncastuximab-tesirine-plus-rituximab-meets-pfs-end-point-in-r-r-dlbcl
+  year: 2026
+  topics: [DLBCL, ADC, Ph3, press-neq-peer, hema]
+  confidence: medium
+  summary: "Press: Lonca-R mPFS 6.1 vs 4.7mo (HR 0.73, P=.008); ORR 58.1% vs 45.2%; CR 39.5% vs 26.7%; among CR, 48.5% vs 16.7% remain in remission at 24mo; OS HR 0.96 (switching confounder claimed). Peer manuscript ABSENT; hema≠solid cure."
+- id: lotis5-peer-manuscript-still-absent-wake8
+  title: LOTIS-5 peer-reviewed full manuscript still absent (wake #8)
+  url: https://clinicaltrials.gov/study/NCT04384484
+  year: 2026
+  topics: [DLBCL, ADC, negative, press-neq-peer]
+  confidence: high
+  summary: "Recheck 2026-09-06: press topline banked; Blood/Lancet-class peer KM/safety tables still ABSENT; sBLA prep press ≠ peer review."
+- id: imcode003-still-recruiting-wake8
+  title: IMCODE003 NCT05968326 still RECRUITING — DFS Results ABSENT (wake #8)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [vaccine, PDAC, negative, recruiting]
+  confidence: high
+  summary: "CT.gov still RECRUITING as of mid-2026 updates; primary completion ~2031; no interim DFS posted; BNT122 CRC fail ≠ IMCODE003 outcome (adjacency filter)."
+- id: car-prism-natmed-mrd-through-mo24-assessments
+  title: CAR-PRISM Nat Med — MRD assessments through mo24 when reached; median FU 15.3mo
+  url: https://doi.org/10.1038/s41591-026-04365-y
+  year: 2026
+  topics: [myeloma, CAR-T, MRD, precursor, progress]
+  confidence: high
+  summary: "Peer Nat Med: all 20 HR-SMM MRD-neg 10^-6 by mo2; sustained at scheduled assessments incl mo24 when reached; median FU still 15.3mo; 6 pts >18mo in AACR; no progression/deaths. MRD≠cured; dedicated mature 24mo plateau cohort still thin."
+- id: wake8-bank
+  title: Ralph wake #8 bank summary
+  url: https://clinicaltrials.gov/study/NCT04384484
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #8: LOTIS-5 press topline banked (manuscript ABSENT); IMCODE003 DFS ABSENT; CAR-PRISM Nat Med MRD-through-mo24 assessments banked as progress not cure."
