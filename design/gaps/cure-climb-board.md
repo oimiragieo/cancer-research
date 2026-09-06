@@ -83,3 +83,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Haematologica abstract supplement ≠ invent MonumenTAL-6 Ph3 medians
 - Adjuvant Ph1 MERIT ≠ metastatic RCT Results
 
+
+## Update (Ralph wake #7) — 2026-09-06
+
+### Researched
+- BNT122-01 NCT04486378 full DSMB OS tables
+- Zolbetuximab vs satri-cel CLDN18.2 sequencing
+- MonumenTAL-6 congress KM recheck
+
+### Banked progress
+- SPOTLIGHT / GLOW / NEJM final-OS letter — CLDN18.2 **mAb** 1L chemo backbone SOC context for satri-cel sequencing discussions
+
+### Negatives held
+- BNT122-01: numerical OS imbalance disclosed; **full OS tables ABSENT**
+- MonumenTAL-6: congress KM still ABSENT
+- No head-to-head zolbetuximab vs satri-cel sequencing RCT in searched sources
+
+### Do not equate
+- Zolbetuximab Ph3 mAb ≠ invent satri-cel 1L CAR doses
+- CRC BNT122 fail ≠ IMCODE003 PDAC outcome
+

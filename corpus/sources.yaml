@@ -651,3 +651,46 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #6: PDAC dual CAR DLT absent; metastatic TNBC vaccine RCT Results absent; RedirecTT-1 Haematologica extended FU banked."
+
+- id: bnt122-01-dsmb-os-tables-still-absent-wake7
+  title: BNT122-01 CRC DSMB OS tables still unpublished (wake #7)
+  url: https://www.biontech.com/int/en/home/mediaroom/news/statements/2026/08/BioNTech-Provides-Update-on-Phase-2-Clinical-Trial-of-Autogene-Cevumeran-in-Resected-Colorectal-Cancer.html
+  year: 2026
+  topics: [vaccine, CRC, negative, DSMB]
+  confidence: high
+  summary: "Termination press notes numerical OS imbalance; no arm counts/HR/KM tables in searched sources as of 2026-09-06; IMCODE003 continues."
+- id: spotlight-zolbetuximab-lancet-2023
+  title: SPOTLIGHT — zolbetuximab + mFOLFOX6 in CLDN18.2+ HER2- G/GEJ
+  url: https://pubmed.ncbi.nlm.nih.gov/37068504/
+  year: 2023
+  topics: [CLDN18.2, mAb, gastric, Ph3, sequencing]
+  confidence: high
+  summary: "Ph3 1L zolbetuximab+chemo PFS/OS win — CLDN18.2 mAb SOC context for satri-cel sequencing; adjacency only for CAR doses."
+- id: glow-zolbetuximab-natmed-2023
+  title: GLOW — zolbetuximab + CAPOX in CLDN18.2+ G/GEJ
+  url: https://www.nature.com/articles/s41591-023-02465-7
+  year: 2023
+  topics: [CLDN18.2, mAb, gastric, Ph3]
+  confidence: high
+  summary: "Ph3 CAPOX backbone confirms CLDN18.2 mAb 1L benefit; sequencing vs satri-cel 3L CAR still untested head-to-head."
+- id: nejm-2024-zolbetuximab-final-os-letter
+  title: NEJM letter — final OS combined SPOTLIGHT+GLOW zolbetuximab
+  url: https://doi.org/10.1056/nejmc2409512
+  year: 2024
+  topics: [CLDN18.2, mAb, gastric, OS]
+  confidence: high
+  summary: "Combined final OS analysis supports durable chemo+mAb benefit; not a CAR cure claim; sequencing research gap held."
+- id: monumental6-km-still-absent-wake7
+  title: MonumenTAL-6 congress KM still absent (wake #7 recheck)
+  url: https://clinicaltrials.gov/study/NCT06208150
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "Recheck 2026-09-06: still press-only HR 0.11; no congress KM/medians/safety deck in searched sources."
+- id: wake7-bank
+  title: Ralph wake #7 bank summary
+  url: https://clinicaltrials.gov/study/NCT06208150
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #7: BNT122 OS tables absent; zolbetuximab Ph3 banked for CLDN18.2 sequencing context; MonumenTAL KM still absent."

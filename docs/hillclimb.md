@@ -70,3 +70,11 @@
 - RedirecTT-1: Haematologica extended FU banked (EMD 16.3mo + Ph1b ~3yr durability)
 - Rotated NEXT_QUERIES → BNT122-01 / zolbetuximab-satri / MonumenTAL-6 KM
 
+
+## Tick 7 — 2026-09-06 (Ralph wake #7)
+
+- BNT122-01: DSMB OS tables still ABSENT (press-only imbalance)
+- Zolbetuximab SPOTLIGHT/GLOW banked as CLDN18.2 mAb sequencing context vs satri-cel
+- MonumenTAL-6 KM still ABSENT on recheck
+- Rotated NEXT_QUERIES → LOTIS-5 / IMCODE003 / CAR-PRISM
+
