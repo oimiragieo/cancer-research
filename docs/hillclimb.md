@@ -86,3 +86,11 @@
 - CAR-PRISM Nat Med: MRD assessments through mo24 when reached; median FU 15.3mo — progress not cure
 - Rotated NEXT_QUERIES → satri earlier-line / GIANT / dual PDAC CAR
 
+
+## Tick 9 — 2026-09-06 (Ralph wake #9)
+
+- Satri-cel: ASCO 2026 1L-sequential LTFU n=5 banked (medium); adjuvant NCT06857786 still not recruiting
+- GIANT: lead-in go/no-go still ABSENT
+- Dual PDAC CAR NCT07066995: DLT/Results still ABSENT
+- Rotated NEXT_QUERIES → TNBC vaccine / RedirecTT / BNT122 OS tables
+

@@ -730,3 +730,39 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #8: LOTIS-5 press topline banked (manuscript ABSENT); IMCODE003 DFS ABSENT; CAR-PRISM Nat Med MRD-through-mo24 assessments banked as progress not cure."
+
+- id: satri-cel-asco2026-1l-sequential-ltfu-n5
+  title: ASCO 2026 — satri-cel sequential after 1L G/GEJ long-term FU (n=5)
+  url: https://doi.org/10.1200/jco.2026.44.16_suppl.2557
+  year: 2026
+  topics: [CLDN18.2, CAR-T, gastric, earlier-line, progress]
+  confidence: medium
+  summary: "Abstract 2557: n=5 satri-cel after 1L chemo; confirmatory ORR 100% among 4 with target lesions; mPFS/OS from 1L start 20.9/22.1mo; 2 alive at 58.1 and 51.1mo FU; manageable CRS. Small n — not randomized cure fraction; invent ≠ invent doses."
+- id: nct06857786-satri-adjuvant-not-yet-recruiting
+  title: NCT06857786 satri-cel adjuvant consolidation still NOT_YET_RECRUITING
+  url: https://clinicaltrials.gov/study/NCT06857786
+  year: 2026
+  topics: [CLDN18.2, CAR-T, gastric, negative, adjuvant]
+  confidence: high
+  summary: "Ph1b postoperative satri-cel consolidation after adjuvant chemo — status NOT_YET_RECRUITING; no Results; earlier-line strategy tracked only."
+- id: giant-leadin-gono-go-still-absent-wake9
+  title: GIANT NCT06816927 safety lead-in go/no-go still ABSENT (wake #9)
+  url: https://clinicaltrials.gov/study/NCT06816927
+  year: 2026
+  topics: [GBM, IO, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING / open to accrual; no published safety lead-in go/no-go decision in searched sources as of 2026-09-06."
+- id: nct07066995-dlt-still-absent-wake9
+  title: NCT07066995 dual MSLN/CLDN18.2 PDAC CAR DLT/Results still ABSENT (wake #9)
+  url: https://clinicaltrials.gov/study/NCT07066995
+  year: 2026
+  topics: [PDAC, CAR-T, dual-target, negative]
+  confidence: high
+  summary: "Still RECRUITING; registry lists start Apr 2025 but no first-patient DLT tables or Results posted; dual-target concept adjacency only."
+- id: wake9-bank
+  title: Ralph wake #9 bank summary
+  url: https://doi.org/10.1200/jco.2026.44.16_suppl.2557
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #9: satri 1L-sequential LTFU n=5 banked (medium); adjuvant NCT06857786 / GIANT go-no-go / dual PDAC CAR DLT still ABSENT."

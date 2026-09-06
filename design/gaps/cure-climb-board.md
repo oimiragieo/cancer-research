@@ -125,3 +125,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - BNT122 CRC termination ≠ IMCODE003 PDAC failure
 - HR-SMM MRD-neg ≠ symptomatic myeloma cure fraction
 
+
+## Update (Ralph wake #9) — 2026-09-06
+
+### Researched
+- Satri-cel earlier-line CLDN18.2 CAR-T gastric
+- GIANT NCT06816927 safety lead-in go/no-go
+- NCT07066995 dual PDAC CAR first-patient / DLT
+
+### Banked progress
+- ASCO 2026 abstract 2557: satri-cel sequential after 1L (n=5) with multi-year survivors — earlier-line signal, **not** RCT cure
+
+### Negatives held
+- NCT06857786 adjuvant consolidation NOT_YET_RECRUITING
+- GIANT lead-in go/no-go ABSENT
+- Dual PDAC CAR DLT/Results ABSENT
+
+### Do not equate
+- n=5 sequential abstract ≠ invent satri-cel 1L doses or claim cure fraction
+- Recruiting dual CAR registry ≠ clinical Results
+
