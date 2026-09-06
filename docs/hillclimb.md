@@ -94,3 +94,11 @@
 - Dual PDAC CAR NCT07066995: DLT/Results still ABSENT
 - Rotated NEXT_QUERIES → TNBC vaccine / RedirecTT / BNT122 OS tables
 
+
+## Tick 10 — 2026-09-06 (Ralph wake #10)
+
+- TNBC NCT03606967 / VITAL-TNBC: Results still ABSENT
+- RedirecTT: no newer peer FU beyond Haematologica (already banked)
+- BNT122-01: OS tables still ABSENT
+- Rotated NEXT_QUERIES → zolbetuximab-satri / MonumenTAL / LOTIS-5 manuscript
+

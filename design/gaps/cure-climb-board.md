@@ -145,3 +145,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - n=5 sequential abstract ≠ invent satri-cel 1L doses or claim cure fraction
 - Recruiting dual CAR registry ≠ clinical Results
 
+
+## Update (Ralph wake #10) — 2026-09-06
+
+### Researched
+- TNBC personalized neoantigen vaccine randomized OS NCT Results
+- RedirecTT-1 Haematologica extended FU recheck
+- BNT122-01 full DSMB OS tables
+
+### Banked progress
+- (none new) — RedirecTT Haematologica already banked wake #6; recheck confirms no newer peer FU
+
+### Negatives held
+- NCT03606967 / VITAL-TNBC: randomized OS / Ph1 Results ABSENT
+- BNT122-01: full OS tables ABSENT
+- RedirecTT: no update beyond P38/P40 abstracts
+
+### Do not equate
+- Hema EMD bispecific durability ≠ solid-tumor cure
+- TNBC Ph1 saRNA ≠ metastatic RCT OS win
+

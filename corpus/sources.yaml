@@ -766,3 +766,39 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #9: satri 1L-sequential LTFU n=5 banked (medium); adjuvant NCT06857786 / GIANT go-no-go / dual PDAC CAR DLT still ABSENT."
+
+- id: tnbc-nct03606967-results-still-absent-wake10
+  title: NCT03606967 metastatic TNBC neoantigen vaccine RCT Results still ABSENT (wake #10)
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2026
+  topics: [TNBC, vaccine, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING / no CT.gov Results; primary PFS/OS tables not posted; completion est Dec 2026 — bank absence."
+- id: vital-tnbc-nct07652242-still-recruiting-wake10
+  title: VITAL-TNBC NCT07652242 saRNA Ph1 still RECRUITING (wake #10)
+  url: https://clinicaltrials.gov/study/NCT07652242
+  year: 2026
+  topics: [TNBC, vaccine, saRNA, recruiting]
+  confidence: high
+  summary: "Ph1 ITI-5000 still RECRUITING; not randomized OS; adjacency only vs metastatic RCT."
+- id: redirectt1-no-newer-than-haematologica-wake10
+  title: RedirecTT-1 — no newer peer FU beyond Haematologica P38/P40 (wake #10 recheck)
+  url: https://doi.org/10.3324/haematol.2026.s2.14055
+  year: 2026
+  topics: [myeloma, bispecific, EMD, recheck]
+  confidence: high
+  summary: "Recheck: still P40 EMD mFU 16.3mo ORR 77.8% and P38 Ph1b ~3yr RP2R durability; no newer full manuscript beyond prior bank; hema≠solid."
+- id: bnt122-os-tables-still-absent-wake10
+  title: BNT122-01 CRC full DSMB OS tables still ABSENT (wake #10)
+  url: https://www.biontech.com/int/en/home/mediaroom/news/statements/2026/08/BioNTech-Provides-Update-on-Phase-2-Clinical-Trial-of-Autogene-Cevumeran-in-Resected-Colorectal-Cancer.html
+  year: 2026
+  topics: [vaccine, CRC, negative, DSMB]
+  confidence: high
+  summary: "Sep 2026 recheck: termination press only; no arm counts/HR/KM tables; IMCODE003 continues (filter)."
+- id: wake10-bank
+  title: Ralph wake #10 bank summary
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #10 rotation: TNBC RCT OS ABSENT; RedirecTT no newer than Haematologica; BNT122 OS tables ABSENT."
