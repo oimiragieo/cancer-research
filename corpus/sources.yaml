@@ -932,3 +932,97 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #14: RedirecTT-1 NEJM Ph2 EMD banked (hema); BNT122 OS tables + zolb→satri H2H still ABSENT."
+
+- id: monumental6-congress-km-still-absent-wake15
+  title: MonumenTAL-6 congress KM/medians still ABSENT (wake #15)
+  url: https://kolpulse.com/kol-pulse-trial-profile-monumental6
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "Sep 2026 recheck: KOL/CancerNetwork still cite Jul 2026 topline HRs only (PFS 0.11 / OS 0.38); no congress KM/medians/safety tables; press≠peer; hema≠solid."
+- id: lotis5-peer-manuscript-still-absent-wake15
+  title: LOTIS-5 peer-reviewed manuscript still ABSENT (wake #15)
+  url: https://ir.adctherapeutics.com/2026-06-03-ADC-Therapeutics-Announces-Results-From-LOTIS-5-Phase-3-Confirmatory-Clinical-Trial-of-ZYNLONTA-R-in-Combination-with-Rituximab-in-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma
+  year: 2026
+  topics: [DLBCL, ADC, negative, press-neq-peer]
+  confidence: high
+  summary: "Recheck: company press topline only; Blood/Lancet-class peer KM manuscript still ABSENT."
+- id: imcode003-still-recruiting-wake15
+  title: IMCODE003 NCT05968326 still RECRUITING — DFS Results ABSENT (wake #15)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [vaccine, PDAC, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING; no interim DFS; BioNTech affirms trial continues despite BNT122 CRC stop."
+- id: wake15-bank
+  title: Ralph wake #15 bank summary
+  url: https://clinicaltrials.gov/study/NCT06208150
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #15: MonumenTAL congress KM, LOTIS-5 peer MS, IMCODE003 DFS all still ABSENT."
+
+- id: car-prism-mature-24mo-still-absent-wake16
+  title: CAR-PRISM mature 24mo MRD plateau update still ABSENT (wake #16)
+  url: https://doi.org/10.1038/s41591-026-04365-y
+  year: 2026
+  topics: [myeloma, CAR-T, MRD, negative]
+  confidence: high
+  summary: "No post-Nat-Med update; median FU still 15.3mo; MRD≠cured."
+- id: satri-earlier-line-no-new-results-wake16
+  title: Satri-cel earlier-line IITs — no new Results beyond prior bank (wake #16)
+  url: https://clinicaltrials.gov/study/NCT07179484
+  year: 2026
+  topics: [CLDN18.2, CAR-T, gastric, recruiting]
+  confidence: high
+  summary: "NCT07179484 / NCT06857786 / NCT05911217 remain recruiting/not-yet; no new peer Results since ASCO 2557 n=5 LTFU."
+- id: giant-leadin-still-absent-wake16
+  title: GIANT NCT06816927 safety lead-in go/no-go still ABSENT (wake #16)
+  url: https://clinicaltrials.gov/study/NCT06816927
+  year: 2026
+  topics: [GBM, IO, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING / open to accrual; no published go/no-go."
+- id: natmed-2025-gbm-neoadj-triplet-ici
+  title: Nat Med 2025 — neoadjuvant triplet ICI in newly diagnosed GBM (Long et al.)
+  url: https://doi.org/10.1038/s41591-025-03512-1
+  year: 2025
+  topics: [GBM, IO, neoadjuvant, progress]
+  confidence: high
+  summary: "Peer neoadjuvant triplet checkpoint blockade in ndGBM — biologic/feasibility signal for peri-op IO class; not GIANT relatlimab lead-in; not a cure claim."
+- id: wake16-bank
+  title: Ralph wake #16 bank summary
+  url: https://doi.org/10.1038/s41591-025-03512-1
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #16: banked Nat Med GBM neoadj triplet ICI as class progress; CAR-PRISM/satri-IIT/GIANT lead-in absences held."
+
+- id: nct07066995-dlt-still-absent-wake17
+  title: NCT07066995 dual MSLN/CLDN18.2 PDAC CAR DLT/Results still ABSENT (wake #17)
+  url: https://clinicaltrials.gov/study/NCT07066995
+  year: 2026
+  topics: [PDAC, CAR-T, dual-target, negative]
+  confidence: high
+  summary: "Still RECRUITING; no DLT tables or Results posted as of 2026-09-07."
+- id: tnbc-nct03606967-results-still-absent-wake17
+  title: NCT03606967 TNBC neoantigen vaccine RCT Results still ABSENT (wake #17)
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2026
+  topics: [TNBC, vaccine, negative, recruiting]
+  confidence: high
+  summary: "Still no CT.gov Results; randomized OS/PFS tables ABSENT."
+- id: redirectt1-nejm-no-newer-fu-wake17
+  title: RedirecTT-1 NEJM — no extended FU beyond mFU 12.6mo peer update (wake #17)
+  url: https://www.nejm.org/doi/abs/10.1056/NEJMoa2514752
+  year: 2026
+  topics: [myeloma, bispecific, EMD, recheck]
+  confidence: high
+  summary: "Recheck: NEJM Ph2 EMD remains primary peer source (mFU 12.6mo); Haematologica abstracts longer FU already banked; no newer NEJM OS-plateau update."
+- id: wake17-bank
+  title: Ralph wake #17 bank summary
+  url: https://clinicaltrials.gov/study/NCT07066995
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #17: dual PDAC CAR DLT, TNBC RCT OS, RedirecTT NEJM extended FU all still ABSENT/no-newer."

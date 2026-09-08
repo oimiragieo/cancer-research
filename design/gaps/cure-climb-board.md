@@ -246,3 +246,63 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Myeloma EMD bispecific peer win ≠ invent solid-tumor cure
 - NEJM Ph2 ≠ TFR/survival plateau cure definition for solids
 
+
+## Update (Ralph wake #15) — 2026-09-07
+
+### Researched
+- MonumenTAL-6 congress KM/medians/safety
+- LOTIS-5 peer-reviewed manuscript
+- IMCODE003 interim DFS / enrollment flip
+
+### Banked progress
+- (none new) — press toplines already banked earlier wakes
+
+### Negatives held
+- MonumenTAL-6 congress KM ABSENT
+- LOTIS-5 peer manuscript ABSENT
+- IMCODE003 DFS ABSENT (still RECRUITING)
+
+### Do not equate
+- Myeloma bispecific topline HR ≠ solid cure
+- Press PFS win ≠ peer KM tables
+
+
+## Update (Ralph wake #16) — 2026-09-07
+
+### Researched
+- CAR-PRISM mature 24mo MRD plateau
+- Satri-cel earlier-line CT.gov Results
+- GIANT safety lead-in go/no-go
+
+### Banked progress
+- Nat Med 2025 neoadjuvant **triplet ICI** in ndGBM (Long et al.) — peri-op IO class evidence adjacent to GIANT (not relatlimab lead-in)
+
+### Negatives held
+- CAR-PRISM mature 24mo update ABSENT
+- Satri earlier-line IITs: no new Results
+- GIANT lead-in go/no-go ABSENT
+
+### Do not equate
+- Triplet ICI feasibility ≠ invent GIANT relatlimab doses or claim cure
+- HR-SMM MRD ≠ solid cure
+
+
+## Update (Ralph wake #17) — 2026-09-07
+
+### Researched
+- Dual PDAC CAR NCT07066995 DLT
+- TNBC neoantigen vaccine randomized OS NCT Results
+- RedirecTT-1 NEJM extended FU / OS plateau
+
+### Banked progress
+- (none new)
+
+### Negatives held
+- Dual PDAC CAR DLT/Results ABSENT
+- TNBC NCT03606967 Results ABSENT
+- RedirecTT NEJM: no peer update beyond mFU 12.6mo primary report
+
+### Do not equate
+- Recruiting dual CAR ≠ Results
+- Hema EMD bispecific ≠ solid cure
+

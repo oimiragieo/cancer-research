@@ -134,3 +134,28 @@
 - Zolb→satri H2H: still ABSENT
 - Rotated NEXT_QUERIES → MonumenTAL KM / LOTIS-5 manuscript / IMCODE003
 
+
+## Tick 15 — 2026-09-07 (Ralph wake #15)
+
+- MonumenTAL-6: congress KM still ABSENT (press HRs only)
+- LOTIS-5: peer manuscript still ABSENT
+- IMCODE003: still RECRUITING; DFS ABSENT
+- Rotated NEXT_QUERIES → CAR-PRISM / satri earlier-line / GIANT
+
+
+## Tick 16 — 2026-09-07 (Ralph wake #16)
+
+- CAR-PRISM: mature 24mo still ABSENT
+- Satri earlier-line IITs: no new Results
+- GIANT: lead-in go/no-go still ABSENT
+- Banked Nat Med 2025 GBM neoadj triplet ICI as class progress
+- Rotated NEXT_QUERIES → dual PDAC CAR / TNBC / RedirecTT NEJM FU
+
+
+## Tick 17 — 2026-09-07 (Ralph wake #17)
+
+- Dual PDAC CAR: DLT/Results still ABSENT
+- TNBC RCT: Results still ABSENT
+- RedirecTT NEJM: no newer extended FU peer update
+- Rotated NEXT_QUERIES → BNT122 OS / zolb-satri / MonumenTAL KM
+
