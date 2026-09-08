@@ -126,3 +126,11 @@
 - TNBC NCT03606967: Results still ABSENT
 - Rotated NEXT_QUERIES → RedirecTT / BNT122 OS / zolbetuximab-satri
 
+
+## Tick 14 — 2026-09-07 (Ralph wake #14)
+
+- RedirecTT-1: **NEJM Ph2 EMD** peer manuscript banked (hema progress)
+- BNT122-01: OS tables still ABSENT
+- Zolb→satri H2H: still ABSENT
+- Rotated NEXT_QUERIES → MonumenTAL KM / LOTIS-5 manuscript / IMCODE003
+

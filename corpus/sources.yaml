@@ -903,3 +903,32 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #13 rotation: GIANT go/no-go, dual PDAC CAR DLT, TNBC RCT OS all still ABSENT."
+
+- id: redirectt1-nejm-2025-emd-ph2
+  title: NEJM — RedirecTT-1 Ph2 talquetamab+teclistamab in true EMD myeloma
+  url: https://www.nejm.org/doi/abs/10.1056/NEJMoa2514752
+  year: 2025
+  topics: [myeloma, bispecific, EMD, peer, progress]
+  confidence: high
+  summary: "Peer NEJM Ph2 n=90 true EMD: ORR 79%; 12mo DOR among responders 64%; 12mo PFS 61%; 12mo OS 74%; mFU 12.6mo. Grade ≥3 AEs 76%; infection deaths noted. Hema progress ≠ solid cure; MRD/cure claim not met."
+- id: bnt122-os-tables-still-absent-wake14
+  title: BNT122-01 CRC full DSMB OS tables still ABSENT (wake #14)
+  url: https://www.biontech.com/int/en/home/mediaroom/news/statements/2026/08/BioNTech-Provides-Update-on-Phase-2-Clinical-Trial-of-Autogene-Cevumeran-in-Resected-Colorectal-Cancer.html
+  year: 2026
+  topics: [vaccine, CRC, negative, DSMB]
+  confidence: high
+  summary: "Sep 2026 recheck: termination press only; no arm counts/HR/KM tables published."
+- id: zolb-satri-h2h-still-absent-wake14
+  title: Prospective zolbetuximab→satri-cel H2H cure-fraction RCT still ABSENT (wake #14)
+  url: https://www.dovepress.com/cldn182-directed-therapeutics-in-gastric-and-gastroesophageal-junction-peer-reviewed-fulltext-article-CMAR
+  year: 2026
+  topics: [CLDN18.2, sequencing, negative]
+  confidence: high
+  summary: "Recheck: sequencing remains review/framework-level; no prospective H2H cure-fraction RCT."
+- id: wake14-bank
+  title: Ralph wake #14 bank summary
+  url: https://www.nejm.org/doi/abs/10.1056/NEJMoa2514752
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #14: RedirecTT-1 NEJM Ph2 EMD banked (hema); BNT122 OS tables + zolb→satri H2H still ABSENT."

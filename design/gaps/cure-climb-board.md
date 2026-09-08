@@ -227,3 +227,22 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Recruiting registry ≠ clinical Results
 - GBM peri-op IO feasibility ≠ cure
 
+
+## Update (Ralph wake #14) — 2026-09-07
+
+### Researched
+- RedirecTT-1 peer FU beyond Haematologica abstracts
+- BNT122-01 full DSMB OS tables
+- Zolbetuximab→satri-cel H2H cure-fraction
+
+### Banked progress
+- **NEJM** RedirecTT-1 dedicated Ph2 true-EMD cohort (ORR 79%, 12mo PFS 61%) — peer upgrade vs abstracts; hema≠solid
+
+### Negatives held
+- BNT122-01 OS tables ABSENT
+- Prospective zolbetuximab→satri H2H ABSENT
+
+### Do not equate
+- Myeloma EMD bispecific peer win ≠ invent solid-tumor cure
+- NEJM Ph2 ≠ TFR/survival plateau cure definition for solids
+
