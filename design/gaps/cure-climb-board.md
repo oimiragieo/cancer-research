@@ -186,3 +186,44 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Sequencing review ≠ invent satri 1L doses
 - Myeloma bispecific topline ≠ solid cure
 
+
+## Update (Ralph wake #12) — 2026-09-07
+
+### Researched
+- IMCODE003 interim DFS / enrollment flip
+- CAR-PRISM mature 24mo MRD plateau
+- Satri-cel earlier-line CT.gov pipeline
+
+### Banked progress
+- NCT07179484 (CT041-CG4011) 1L-sequential Ph1b **RECRUITING** — pipeline expansion after ASCO n=5 LTFU
+- NCT05911217 PDAC adjuvant satri-cel still RECRUITING (tracked)
+
+### Negatives held
+- IMCODE003 DFS Results ABSENT
+- CAR-PRISM: no mature update beyond Nat Med median 15.3mo FU
+- NCT07179484 / NCT05911217: no clinical Results yet
+
+### Do not equate
+- Recruiting earlier-line IITs ≠ cure fraction
+- HR-SMM MRD-neg ≠ solid-tumor cure
+
+
+## Update (Ralph wake #13) — 2026-09-07
+
+### Researched
+- GIANT safety lead-in go/no-go
+- Dual PDAC CAR NCT07066995 DLT
+- TNBC neoantigen vaccine randomized OS NCT Results
+
+### Banked progress
+- (none new) — absences reconfirmed
+
+### Negatives held
+- GIANT lead-in go/no-go ABSENT
+- Dual PDAC CAR DLT/Results ABSENT
+- TNBC NCT03606967 Results ABSENT
+
+### Do not equate
+- Recruiting registry ≠ clinical Results
+- GBM peri-op IO feasibility ≠ cure
+

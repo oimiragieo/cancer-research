@@ -110,3 +110,19 @@
 - LOTIS-5: peer manuscript still ABSENT
 - Rotated NEXT_QUERIES → IMCODE003 / CAR-PRISM mature 24mo / satri earlier-line
 
+
+## Tick 12 — 2026-09-07 (Ralph wake #12)
+
+- IMCODE003: still RECRUITING; interim DFS ABSENT
+- CAR-PRISM: mature 24mo plateau update still ABSENT (median FU 15.3mo)
+- Satri earlier-line: NCT07179484 + NCT05911217 banked as recruiting pipeline
+- Rotated NEXT_QUERIES → GIANT / dual PDAC CAR / TNBC vaccine OS
+
+
+## Tick 13 — 2026-09-07 (Ralph wake #13)
+
+- GIANT: lead-in go/no-go still ABSENT
+- Dual PDAC CAR: DLT/Results still ABSENT
+- TNBC NCT03606967: Results still ABSENT
+- Rotated NEXT_QUERIES → RedirecTT / BNT122 OS / zolbetuximab-satri
+

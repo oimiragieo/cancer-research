@@ -838,3 +838,68 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #11: CLDN sequencing review + zolb+nivo Ph2 banked; MonumenTAL KM + LOTIS-5 peer manuscript still ABSENT."
+
+- id: imcode003-still-recruiting-wake12
+  title: IMCODE003 NCT05968326 still RECRUITING — interim DFS ABSENT (wake #12)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [vaccine, PDAC, negative, recruiting]
+  confidence: high
+  summary: "Sep 2026 recheck: still RECRUITING; primary completion ~2031; no interim DFS posted; BNT122 CRC fail ≠ IMCODE003 (adjacency filter)."
+- id: car-prism-mature-24mo-still-absent-wake12
+  title: CAR-PRISM mature 24mo MRD plateau update still ABSENT (wake #12)
+  url: https://doi.org/10.1038/s41591-026-04365-y
+  year: 2026
+  topics: [myeloma, CAR-T, MRD, negative]
+  confidence: high
+  summary: "No post-Nat-Med mature update; median FU still 15.3mo; MRD≠cured; dedicated 24mo plateau cohort still thin."
+- id: nct07179484-satri-1l-seq-recruiting
+  title: NCT07179484 satri-cel 1L-sequential Ph1b IIT RECRUITING — Results ABSENT
+  url: https://clinicaltrials.gov/study/NCT07179484
+  year: 2026
+  topics: [CLDN18.2, CAR-T, gastric, earlier-line, recruiting]
+  confidence: high
+  summary: "CT041-CG4011 Ph1b sequential after 1L G/GEJ; RECRUITING (start Oct 2025); n~20; no Results — earlier-line pipeline tracked."
+- id: nct05911217-satri-pdac-adjuvant-still-recruiting
+  title: NCT05911217 satri-cel PDAC adjuvant Ph1b still RECRUITING
+  url: https://clinicaltrials.gov/study/NCT05911217
+  year: 2026
+  topics: [CLDN18.2, CAR-T, PDAC, adjuvant, recruiting]
+  confidence: high
+  summary: "CT041-ST-05 after adjuvant chemo PDAC; still RECRUITING; DFS Results ABSENT; invent≠invent doses."
+- id: wake12-bank
+  title: Ralph wake #12 bank summary
+  url: https://clinicaltrials.gov/study/NCT07179484
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #12: IMCODE003 DFS + CAR-PRISM mature 24mo ABSENT; banked NCT07179484/NCT05911217 earlier-line pipeline recruiting."
+
+- id: giant-leadin-gono-go-still-absent-wake13
+  title: GIANT NCT06816927 safety lead-in go/no-go still ABSENT (wake #13)
+  url: https://clinicaltrials.gov/study/NCT06816927
+  year: 2026
+  topics: [GBM, IO, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING / open to accrual; no published lead-in go/no-go decision as of 2026-09-07."
+- id: nct07066995-dlt-still-absent-wake13
+  title: NCT07066995 dual MSLN/CLDN18.2 PDAC CAR DLT/Results still ABSENT (wake #13)
+  url: https://clinicaltrials.gov/study/NCT07066995
+  year: 2026
+  topics: [PDAC, CAR-T, dual-target, negative]
+  confidence: high
+  summary: "Still RECRUITING; no first-patient DLT tables or Results posted."
+- id: tnbc-nct03606967-results-still-absent-wake13
+  title: NCT03606967 TNBC neoantigen vaccine RCT Results still ABSENT (wake #13)
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2026
+  topics: [TNBC, vaccine, negative, recruiting]
+  confidence: high
+  summary: "Still no CT.gov Results; randomized OS/PFS tables ABSENT on recheck."
+- id: wake13-bank
+  title: Ralph wake #13 bank summary
+  url: https://clinicaltrials.gov/study/NCT06816927
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #13 rotation: GIANT go/no-go, dual PDAC CAR DLT, TNBC RCT OS all still ABSENT."
