@@ -407,3 +407,24 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Press PFS HR 0.11 ≠ invent congress KM curves
 - Press Lonca-R confirmatory ≠ Blood/Lancet peer tables
 
+## Update (Ralph wake #23) — 2026-09-09
+
+### Researched
+- IMCODE003 interim DFS / enrollment flip
+- CAR-PRISM mature 24mo MRD plateau
+- Satri-cel earlier-line CT.gov / company updates
+
+### Banked progress
+- **CARsgen Jul 2026:** NCT06857786 consolidation IIT accepted for **ESMO 2026 poster**; abstract embargo until **2026-10-19 CEST** — calendar pin only (no numbers yet)
+
+### Negatives held
+- IMCODE003 DFS Results ABSENT (still RECRUITING)
+- CAR-PRISM mature 24mo ABSENT
+- Satri earlier-line peer Results ABSENT beyond ASCO 2557 n=5
+
+### Do not equate
+- ESMO poster acceptance ≠ invent consolidation cure fractions
+- Embargoed abstract ≠ Results tables
+- CT.gov NOT_YET_RECRUITING vs company IIT claim — wait for abstract/registry sync
+- MRD≠cured; hema≠solid
+

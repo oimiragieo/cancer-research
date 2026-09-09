@@ -1190,4 +1190,39 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #22: zolb→satri H2H, MonumenTAL-6 congress KM, LOTIS-5 peer MS all still ABSENT."
+- id: imcode003-still-recruiting-wake23
+  title: IMCODE003 NCT05968326 still RECRUITING — DFS Results ABSENT (wake #23)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [vaccine, PDAC, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING; primary completion ~2031; no interim DFS posted. BioNTech Aug 2026 affirms continues despite BNT122 CRC stop."
+- id: car-prism-mature-24mo-still-absent-wake23
+  title: CAR-PRISM mature 24mo MRD plateau update still ABSENT (wake #23)
+  url: https://doi.org/10.1038/s41591-026-04365-y
+  year: 2026
+  topics: [myeloma, CAR-T, MRD, negative]
+  confidence: high
+  summary: "No post-Nat-Med dedicated mature update; median FU still 15.3mo; assessments may include mo24 when reached but no full-cohort 24mo plateau paper. MRD≠cured; hema≠solid."
+- id: carsgen-esmo2026-nct06857786-poster-accepted
+  title: CARsgen — satri-cel NCT06857786 consolidation IIT ESMO 2026 poster accepted
+  url: https://www.carsgen.com/en/news/20260715/
+  year: 2026
+  topics: [CLDN18.2, CAR-T, gastric, earlier-line, press-neq-peer]
+  confidence: medium
+  summary: "Jul 15 2026 company: preliminary IIT NCT06857786 accepted for ESMO 2026 poster; abstract embargo until 2026-10-19 CEST. Numbers not public yet. CT.gov still NOT_YET_RECRUITING — registry lag possible."
+- id: satri-earlier-line-peer-results-still-absent-wake23
+  title: Satri earlier-line IIT peer Results still ABSENT beyond ASCO n=5 (wake #23)
+  url: https://clinicaltrials.gov/study/NCT07179484
+  year: 2026
+  topics: [CLDN18.2, CAR-T, gastric, negative]
+  confidence: high
+  summary: "NCT07179484 / NCT05911217 recruiting pipeline; NCT06857786 ESMO abstract not yet public; no new peer KM beyond ASCO 2557 n=5 LTFU."
+- id: wake23-bank
+  title: Ralph wake #23 bank summary
+  url: https://www.carsgen.com/en/news/20260715/
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #23: ESMO 2026 NCT06857786 poster pin banked (embargoed); IMCODE003 DFS + CAR-PRISM 24mo still ABSENT."
 

@@ -197,3 +197,10 @@
 - LOTIS-5: peer manuscript still ABSENT
 - Rotated NEXT_QUERIES → IMCODE003 / CAR-PRISM / satri earlier-line
 
+## Tick 23 — 2026-09-09 (Ralph wake #23)
+
+- IMCODE003: still RECRUITING; DFS ABSENT
+- CAR-PRISM: mature 24mo still ABSENT
+- Satri earlier-line: **ESMO 2026 NCT06857786 poster accepted** (abstract embargo Oct 19); peer Results still ABSENT
+- Rotated NEXT_QUERIES → GIANT / dual PDAC CAR / TNBC
+
