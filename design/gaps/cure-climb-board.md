@@ -306,3 +306,44 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Recruiting dual CAR ≠ Results
 - Hema EMD bispecific ≠ solid cure
 
+
+## Update (Ralph wake #18) — 2026-09-09
+
+### Researched
+- BNT122-01 full DSMB OS tables
+- Zolbetuximab vs satri-cel sequencing / cure-fraction
+- MonumenTAL-6 congress KM
+
+### Banked progress
+- **LUCERNA** NCT06901531 Ph3 zolbetuximab+pembro+chemo RECRUITING
+- **NEOCLAUD** NCT06732856 neoadjuvant zolbetuximab+DOS TPS (pipeline)
+
+### Negatives held
+- BNT122-01 OS tables ABSENT
+- Prospective zolb→satri H2H ABSENT
+- MonumenTAL-6 congress KM ABSENT
+
+### Do not equate
+- 1L mAb+IO Ph3 pipeline ≠ invent satri 1L CAR doses
+- Myeloma bispecific topline ≠ solid cure
+
+
+## Update (Ralph wake #19) — 2026-09-09
+
+### Researched
+- LOTIS-5 peer-reviewed manuscript
+- IMCODE003 interim DFS / enrollment flip
+- CAR-PRISM mature 24mo MRD plateau
+
+### Banked progress
+- (none new)
+
+### Negatives held
+- LOTIS-5 peer manuscript ABSENT
+- IMCODE003 DFS ABSENT (still RECRUITING)
+- CAR-PRISM mature 24mo ABSENT
+
+### Do not equate
+- Press confirmatory ADC ≠ peer KM
+- HR-SMM MRD ≠ solid cure
+

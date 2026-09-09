@@ -159,3 +159,19 @@
 - RedirecTT NEJM: no newer extended FU peer update
 - Rotated NEXT_QUERIES → BNT122 OS / zolb-satri / MonumenTAL KM
 
+
+## Tick 18 — 2026-09-09 (Ralph wake #18)
+
+- BNT122-01: OS tables still ABSENT
+- CLDN pipeline: LUCERNA Ph3 + NEOCLAUD neoadj TPS banked; H2H satri still ABSENT
+- MonumenTAL-6: congress KM still ABSENT
+- Rotated NEXT_QUERIES → LOTIS-5 / IMCODE003 / CAR-PRISM
+
+
+## Tick 19 — 2026-09-09 (Ralph wake #19)
+
+- LOTIS-5: peer manuscript still ABSENT
+- IMCODE003: still RECRUITING; DFS ABSENT
+- CAR-PRISM: mature 24mo still ABSENT
+- Rotated NEXT_QUERIES → satri earlier-line / GIANT / dual PDAC CAR
+

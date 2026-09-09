@@ -1026,3 +1026,75 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #17: dual PDAC CAR DLT, TNBC RCT OS, RedirecTT NEJM extended FU all still ABSENT/no-newer."
+
+- id: bnt122-os-tables-still-absent-wake18
+  title: BNT122-01 CRC full DSMB OS tables still ABSENT (wake #18)
+  url: https://www.biontech.com/int/en/home/mediaroom/news/statements/2026/08/BioNTech-Provides-Update-on-Phase-2-Clinical-Trial-of-Autogene-Cevumeran-in-Resected-Colorectal-Cancer.html
+  year: 2026
+  topics: [vaccine, CRC, negative, DSMB]
+  confidence: high
+  summary: "Sep 2026 recheck: termination press/SEC only; no arm counts/HR/KM tables; IMCODE003 continues (filter)."
+- id: lucerna-nct06901531-zolb-pembro-ph3-recruiting
+  title: LUCERNA NCT06901531 — 1L zolbetuximab + pembrolizumab + chemo Ph3 RECRUITING
+  url: https://clinicaltrials.gov/study/NCT06901531
+  year: 2026
+  topics: [CLDN18.2, mAb, PD-1, gastric, Ph3, pipeline]
+  confidence: high
+  summary: "Ph3 double-blind zolbetuximab+pembro+chemo vs placebo+pembro+chemo in CLDN18.2+/PD-L1+/HER2− G/GEJ; RECRUITING; Results ABSENT — intensifies 1L mAb SOC context vs satri sequencing."
+- id: neoclaud-nct06732856-neoadj-zolb-tps
+  title: NEOCLAUD NCT06732856 — neoadjuvant zolbetuximab+DOS TPS (ASCO 2026)
+  url: https://doi.org/10.1200/jco.2026.44.16_suppl.tps4250
+  year: 2026
+  topics: [CLDN18.2, mAb, neoadjuvant, gastric, pipeline]
+  confidence: medium
+  summary: "Ph1b/II neoadjuvant zolbetuximab+DOS → adjuvant zolbetuximab/S-1; enrolling since Feb 2025; pCR primary; no Results — peri-op CLDN mAb pipeline."
+- id: zolb-satri-h2h-still-absent-wake18
+  title: Prospective zolbetuximab→satri-cel H2H cure-fraction RCT still ABSENT (wake #18)
+  url: https://www.dovepress.com/cldn182-directed-therapeutics-in-gastric-and-gastroesophageal-junction-peer-reviewed-fulltext-article-CMAR
+  year: 2026
+  topics: [CLDN18.2, sequencing, negative]
+  confidence: high
+  summary: "LUCERNA/NEOCLAUD expand mAb lines; still no prospective H2H zolbetuximab→satri cure-fraction RCT."
+- id: monumental6-congress-km-still-absent-wake18
+  title: MonumenTAL-6 congress KM/medians still ABSENT (wake #18)
+  url: https://kolpulse.com/kol-pulse-trial-profile-monumental6
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "Still press-only HRs; no congress KM/medians/safety tables; hema≠solid."
+- id: wake18-bank
+  title: Ralph wake #18 bank summary
+  url: https://clinicaltrials.gov/study/NCT06901531
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #18: LUCERNA + NEOCLAUD CLDN mAb pipeline banked; BNT122 OS tables + zolb→satri H2H + MonumenTAL KM ABSENT."
+
+- id: lotis5-peer-manuscript-still-absent-wake19
+  title: LOTIS-5 peer-reviewed manuscript still ABSENT (wake #19)
+  url: https://ir.adctherapeutics.com/2026-06-03-ADC-Therapeutics-Announces-Results-From-LOTIS-5-Phase-3-Confirmatory-Clinical-Trial-of-ZYNLONTA-R-in-Combination-with-Rituximab-in-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma
+  year: 2026
+  topics: [DLBCL, ADC, negative, press-neq-peer]
+  confidence: high
+  summary: "Sep 2026 recheck: press topline only; Blood/Lancet-class peer KM manuscript still ABSENT; sBLA prep ≠ peer."
+- id: imcode003-still-recruiting-wake19
+  title: IMCODE003 NCT05968326 still RECRUITING — DFS Results ABSENT (wake #19)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [vaccine, PDAC, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING; primary completion ~2031; no interim DFS posted."
+- id: car-prism-mature-24mo-still-absent-wake19
+  title: CAR-PRISM mature 24mo MRD plateau update still ABSENT (wake #19)
+  url: https://doi.org/10.1038/s41591-026-04365-y
+  year: 2026
+  topics: [myeloma, CAR-T, MRD, negative]
+  confidence: high
+  summary: "No post-Nat-Med mature update; median FU still 15.3mo; MRD≠cured."
+- id: wake19-bank
+  title: Ralph wake #19 bank summary
+  url: https://clinicaltrials.gov/study/NCT04384484
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #19: LOTIS-5 peer MS, IMCODE003 DFS, CAR-PRISM mature 24mo all still ABSENT."
