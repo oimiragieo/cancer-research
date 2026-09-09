@@ -226,3 +226,11 @@
 - IMCODE003: DFS still ABSENT
 - Rotated NEXT_QUERIES → CAR-PRISM / satri ESMO / GIANT; added TG4050 Ph2 hunt
 
+## Tick 27 — 2026-09-09 (Ralph wake #27)
+
+- CAR-PRISM: mature 24mo still ABSENT
+- Satri ESMO abstract: still embargoed to 2026-10-19
+- GIANT: go/no-go still ABSENT
+- **GCAR1** GPNMB CAR-T ASPS Nat Cancer n=1 interim banked (PoC ≠ cure)
+- Rotated NEXT_QUERIES → TG4050 Ph2 / dual CAR / TNBC
+

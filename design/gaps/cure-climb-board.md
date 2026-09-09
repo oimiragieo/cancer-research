@@ -489,3 +489,24 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Press myeloma/DLBCL HRs ≠ solid cure
 - CRC BNT122 fail ≠ IMCODE003
 
+## Update (Ralph wake #27) — 2026-09-09
+
+### Researched
+- CAR-PRISM mature 24mo
+- Satri ESMO 2026 NCT06857786 abstract
+- GIANT lead-in go/no-go
+- Opportunistic solid CAR scan → GCAR1
+
+### Banked progress
+- **GCAR1** (Nature Cancer 2026; NCT07104682): GPNMB-directed CAR-T in ASPS — n=1 interim SD ≤3mo / nontarget resolution — fusion-driven solid CAR PoC
+
+### Negatives held
+- CAR-PRISM mature 24mo ABSENT
+- Satri ESMO abstract still embargoed
+- GIANT go/no-go ABSENT
+
+### Do not equate
+- n=1 ASPS SD ≠ invent solid CAR cure
+- Embargoed ESMO ≠ Results
+- HR-SMM MRD ≠ solid cure
+
