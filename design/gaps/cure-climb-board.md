@@ -347,3 +347,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Press confirmatory ADC ≠ peer KM
 - HR-SMM MRD ≠ solid cure
 
+
+## Update (Ralph wake #20) — 2026-09-09
+
+### Researched
+- Satri-cel earlier-line CT.gov / company updates
+- GIANT safety lead-in go/no-go
+- Dual PDAC CAR NCT07066995 DLT
+
+### Banked progress
+- CARsgen Aug 2026 interim: earlier-line/peri-op IIT slate reaffirmed (press)
+
+### Negatives held
+- Satri IIT peer Results ABSENT (beyond ASCO n=5)
+- GIANT lead-in go/no-go ABSENT
+- Dual PDAC CAR DLT ABSENT
+
+### Do not equate
+- Company interim / NMPA 3L approval ≠ invent 1L cure fraction
+- Recruiting dual CAR ≠ Results
+

@@ -175,3 +175,11 @@
 - CAR-PRISM: mature 24mo still ABSENT
 - Rotated NEXT_QUERIES → satri earlier-line / GIANT / dual PDAC CAR
 
+
+## Tick 20 — 2026-09-09 (Ralph wake #20)
+
+- Satri earlier-line: CARsgen interim pipeline restated; IIT Results still ABSENT
+- GIANT: lead-in go/no-go still ABSENT
+- Dual PDAC CAR: DLT still ABSENT
+- Rotated NEXT_QUERIES → TNBC / RedirecTT NEJM FU / BNT122 OS
+
