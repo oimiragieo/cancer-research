@@ -218,3 +218,11 @@
 - Zolb→satri H2H: still ABSENT
 - Rotated NEXT_QUERIES → MonumenTAL / LOTIS / IMCODE003
 
+## Tick 26 — 2026-09-09 (Ralph wake #26)
+
+- **TG4050** NCT04183166 randomized Ph1 adjuvant HNSCC banked (0/16 vs 3/16 relapses; small-n ≠ cure)
+- MonumenTAL-6: congress KM still ABSENT
+- LOTIS-5: peer manuscript still ABSENT
+- IMCODE003: DFS still ABSENT
+- Rotated NEXT_QUERIES → CAR-PRISM / satri ESMO / GIANT; added TG4050 Ph2 hunt
+

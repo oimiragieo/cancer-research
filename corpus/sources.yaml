@@ -1281,4 +1281,46 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #25: RedirecTT NEJM FU, BNT122 OS tables, zolb→satri H2H all still ABSENT."
+- id: tg4050-hnsc-randomized-ph1-adjuvant-2026
+  title: TG4050 individualized MVA neoantigen vaccine — randomized Ph1 adjuvant HNSCC
+  url: https://doi.org/10.64898/2026.01.06.25342687
+  year: 2026
+  topics: [neoantigen, vaccine, HNSCC, adjuvant, solid]
+  confidence: medium
+  summary: "Randomized Ph1 NCT04183166: immediate TG4050 0/16 relapses at mFU ~30mo vs 3/16 delayed-observation arm. Small-n Ph1 signal — NOT a confirmatory cure plateau."
+- id: nct04183166-tg4050-ctgov
+  title: ClinicalTrials.gov NCT04183166 TG4050 adjuvant HNSCC
+  url: https://clinicaltrials.gov/study/NCT04183166
+  year: 2026
+  topics: [neoantigen, vaccine, HNSCC, NCT]
+  confidence: high
+  summary: "Registry pin for TG4050.02 randomized adjuvant personalized vaccine in resected HPV-neg HNSCC."
+- id: monumental6-congress-km-still-absent-wake26
+  title: MonumenTAL-6 congress KM/medians still ABSENT (wake #26)
+  url: https://kolpulse.com/kol-pulse-trial-profile-monumental6
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "Still press HRs only; no congress KM/medians. Hema≠solid."
+- id: lotis5-peer-manuscript-still-absent-wake26
+  title: LOTIS-5 peer-reviewed manuscript still ABSENT (wake #26)
+  url: https://ir.adctherapeutics.com/2026-06-03-ADC-Therapeutics-Announces-Results-From-LOTIS-5-Phase-3-Confirmatory-Clinical-Trial-of-ZYNLONTA-R-in-Combination-with-Rituximab-in-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma
+  year: 2026
+  topics: [DLBCL, ADC, negative, press-neq-peer]
+  confidence: high
+  summary: "Press topline only; peer KM manuscript still ABSENT."
+- id: imcode003-still-recruiting-wake26
+  title: IMCODE003 NCT05968326 still RECRUITING — DFS ABSENT (wake #26)
+  url: https://clinicaltrials.gov/study/NCT05968326
+  year: 2026
+  topics: [vaccine, PDAC, negative, recruiting]
+  confidence: high
+  summary: "Still RECRUITING; no interim DFS; adjacency filter vs BNT122 CRC stop."
+- id: wake26-bank
+  title: Ralph wake #26 bank summary
+  url: https://doi.org/10.64898/2026.01.06.25342687
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #26: TG4050 HNSCC adjuvant Ph1 signal banked; MonumenTAL KM / LOTIS peer / IMCODE DFS still ABSENT."
 

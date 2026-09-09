@@ -468,3 +468,24 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Press OS imbalance ≠ invent arm counts
 - Sequencing review ≠ invent H2H
 
+## Update (Ralph wake #26) — 2026-09-09
+
+### Researched
+- MonumenTAL-6 congress KM
+- LOTIS-5 peer manuscript
+- IMCODE003 DFS
+- Opportunistic solid neoantigen scan → TG4050
+
+### Banked progress
+- **TG4050** (NCT04183166): randomized Ph1 adjuvant HPV-neg HNSCC — immediate vaccine arm 0/16 relapses at ~30mo mFU vs 3/16 delayed; immunogenicity durable — **explicitly not confirmatory cure**
+
+### Negatives held
+- MonumenTAL-6 congress KM ABSENT
+- LOTIS-5 peer manuscript ABSENT
+- IMCODE003 DFS ABSENT
+
+### Do not equate
+- Ph1 n=16 DFS signal ≠ invent Ph3 cure fraction
+- Press myeloma/DLBCL HRs ≠ solid cure
+- CRC BNT122 fail ≠ IMCODE003
+
