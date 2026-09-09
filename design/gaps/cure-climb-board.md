@@ -428,3 +428,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - CT.gov NOT_YET_RECRUITING vs company IIT claim — wait for abstract/registry sync
 - MRD≠cured; hema≠solid
 
+## Update (Ralph wake #24) — 2026-09-09
+
+### Researched
+- GIANT safety lead-in go/no-go
+- NCT07066995 dual PDAC CAR DLT
+- TNBC NCT03606967 Results recheck
+
+### Banked progress
+- (none new)
+
+### Negatives held
+- GIANT lead-in go/no-go ABSENT (still RECRUITING)
+- Dual PDAC CAR DLT/Results ABSENT
+- TNBC vaccine RCT Results ABSENT
+
+### Do not equate
+- Recruiting peri-op GBM IO ≠ invent survival
+- Dual-antigen CAR protocol ≠ invent DLT rates
+- Recruiting metastatic vaccine ≠ invent OS
+

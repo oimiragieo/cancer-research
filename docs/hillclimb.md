@@ -204,3 +204,10 @@
 - Satri earlier-line: **ESMO 2026 NCT06857786 poster accepted** (abstract embargo Oct 19); peer Results still ABSENT
 - Rotated NEXT_QUERIES → GIANT / dual PDAC CAR / TNBC
 
+## Tick 24 — 2026-09-09 (Ralph wake #24)
+
+- GIANT: lead-in go/no-go still ABSENT
+- Dual PDAC CAR: DLT still ABSENT
+- TNBC RCT: Results still ABSENT
+- Rotated NEXT_QUERIES → RedirecTT NEJM FU / BNT122 OS / zolb-satri
+
