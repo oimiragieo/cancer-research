@@ -367,3 +367,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Company interim / NMPA 3L approval ≠ invent 1L cure fraction
 - Recruiting dual CAR ≠ Results
 
+## Update (Ralph wake #21) — 2026-09-09
+
+### Researched
+- TNBC personalized neoantigen vaccine randomized OS / NCT03606967 Results
+- RedirecTT-1 NEJM extended FU / OS plateau beyond mFU 12.6mo
+- BNT122-01 full DSMB OS tables
+
+### Banked progress
+- (none new)
+
+### Negatives held
+- NCT03606967 TNBC vaccine RCT Results ABSENT (still RECRUITING; est. completion ~Dec 2026)
+- RedirecTT-1: no peer update beyond NEJM primary + prior Haematologica P40 (already banked)
+- BNT122-01: full OS tables ABSENT (Aug 2026 press imbalance only)
+
+### Do not equate
+- Recruiting Ph2 metastatic vaccine ≠ invent OS win
+- Haematologica abstract FU ≠ invent MonumenTAL-6 Ph3 medians
+- CRC BNT122 fail ≠ IMCODE003 PDAC outcome
+

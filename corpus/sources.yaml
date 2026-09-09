@@ -1134,3 +1134,32 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #20: CARsgen interim pipeline restated; satri IIT Results / GIANT go-no-go / dual CAR DLT still ABSENT."
+- id: tnbc-nct03606967-results-still-absent-wake21
+  title: NCT03606967 metastatic TNBC neoantigen vaccine RCT Results still ABSENT (wake #21)
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2026
+  topics: [TNBC, neoantigen, vaccine, negative, recruiting]
+  confidence: high
+  summary: "Sep 2026 recheck: still RECRUITING; est. completion ~Dec 2026; primary PFS Part B; no Results/OS tables posted. Review literature notes 'not yet reported'."
+- id: redirectt1-no-nejm-extended-fu-wake21
+  title: RedirecTT-1 — no NEJM extended FU beyond primary mFU 12.6mo (wake #21)
+  url: https://pubmed.ncbi.nlm.nih.gov/41358582/
+  year: 2026
+  topics: [myeloma, bispecific, EMD, negative, hema]
+  confidence: high
+  summary: "NEJM Ph2 EMD primary still mFU 12.6mo; Haematologica P40 (mFU 16.3mo) already banked wake #6; no newer peer OS plateau manuscript. Hema≠solid."
+- id: bnt122-os-tables-still-absent-wake21
+  title: BNT122-01 CRC full DSMB OS tables still ABSENT (wake #21)
+  url: https://www.biontech.com/int/en/home/mediaroom/news/statements/2026/08/BioNTech-Provides-Update-on-Phase-2-Clinical-Trial-of-Autogene-Cevumeran-in-Resected-Colorectal-Cancer.html
+  year: 2026
+  topics: [vaccine, CRC, negative, press-neq-peer]
+  confidence: high
+  summary: "Aug 28 2026 press/SEC: trial terminated on numerical OS imbalance; counts/HR/KM tables still unpublished. Press≠peer."
+- id: wake21-bank
+  title: Ralph wake #21 bank summary
+  url: https://clinicaltrials.gov/study/NCT03606967
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #21: TNBC RCT Results, RedirecTT NEJM extended FU, BNT122 OS tables all still ABSENT."
+

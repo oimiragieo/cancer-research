@@ -183,3 +183,10 @@
 - Dual PDAC CAR: DLT still ABSENT
 - Rotated NEXT_QUERIES → TNBC / RedirecTT NEJM FU / BNT122 OS
 
+## Tick 21 — 2026-09-09 (Ralph wake #21)
+
+- TNBC NCT03606967: Results still ABSENT (still RECRUITING)
+- RedirecTT-1: no NEJM extended FU beyond primary; Haematologica P40 already banked
+- BNT122-01: DSMB OS tables still ABSENT (press-only)
+- Rotated NEXT_QUERIES → zolb-satri / MonumenTAL KM / LOTIS-5
+
