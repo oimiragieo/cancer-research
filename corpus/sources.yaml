@@ -1162,4 +1162,32 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #21: TNBC RCT Results, RedirecTT NEJM extended FU, BNT122 OS tables all still ABSENT."
+- id: zolb-satri-h2h-still-absent-wake22
+  title: Prospective zolbetuximab→satri-cel H2H cure-fraction RCT still ABSENT (wake #22)
+  url: https://doi.org/10.2147/cmar.s611187
+  year: 2026
+  topics: [CLDN18.2, sequencing, negative]
+  confidence: high
+  summary: "CMAR 2026 sequencing review + Sep 2026 recheck: reassessment-based sequencing discussion only; no prospective H2H zolb→satri cure-fraction RCT."
+- id: monumental6-congress-km-still-absent-wake22
+  title: MonumenTAL-6 congress KM/medians still ABSENT (wake #22)
+  url: https://kolpulse.com/kol-pulse-trial-profile-monumental6
+  year: 2026
+  topics: [myeloma, bispecific, negative, press-neq-peer]
+  confidence: high
+  summary: "Still July 2026 press HRs only; KOL Pulse confirms no congress KM/medians/safety tables; full data promised later. Hema≠solid."
+- id: lotis5-peer-manuscript-still-absent-wake22
+  title: LOTIS-5 peer-reviewed manuscript still ABSENT (wake #22)
+  url: https://ir.adctherapeutics.com/2026-06-03-ADC-Therapeutics-Announces-Results-From-LOTIS-5-Phase-3-Confirmatory-Clinical-Trial-of-ZYNLONTA-R-in-Combination-with-Rituximab-in-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma
+  year: 2026
+  topics: [DLBCL, ADC, negative, press-neq-peer]
+  confidence: high
+  summary: "Sep 2026 recheck: Jun 2026 press topline only; Blood/Lancet-class peer KM manuscript still ABSENT."
+- id: wake22-bank
+  title: Ralph wake #22 bank summary
+  url: https://kolpulse.com/kol-pulse-trial-profile-monumental6
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #22: zolb→satri H2H, MonumenTAL-6 congress KM, LOTIS-5 peer MS all still ABSENT."
 

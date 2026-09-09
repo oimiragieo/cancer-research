@@ -387,3 +387,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Haematologica abstract FU ≠ invent MonumenTAL-6 Ph3 medians
 - CRC BNT122 fail ≠ IMCODE003 PDAC outcome
 
+## Update (Ralph wake #22) — 2026-09-09
+
+### Researched
+- Zolbetuximab vs satri-cel sequencing / cure-fraction H2H
+- MonumenTAL-6 congress full KM / safety
+- LOTIS-5 peer-reviewed manuscript
+
+### Banked progress
+- (none new)
+
+### Negatives held
+- Prospective zolbetuximab→satri-cel H2H cure-fraction RCT ABSENT
+- MonumenTAL-6 congress KM/medians ABSENT (press-only)
+- LOTIS-5 peer-reviewed manuscript ABSENT
+
+### Do not equate
+- CMAR sequencing narrative ≠ invent H2H cure fractions
+- Press PFS HR 0.11 ≠ invent congress KM curves
+- Press Lonca-R confirmatory ≠ Blood/Lancet peer tables
+

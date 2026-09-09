@@ -190,3 +190,10 @@
 - BNT122-01: DSMB OS tables still ABSENT (press-only)
 - Rotated NEXT_QUERIES → zolb-satri / MonumenTAL KM / LOTIS-5
 
+## Tick 22 — 2026-09-09 (Ralph wake #22)
+
+- Zolb→satri H2H: still ABSENT (sequencing review only)
+- MonumenTAL-6: congress KM still ABSENT (press HRs)
+- LOTIS-5: peer manuscript still ABSENT
+- Rotated NEXT_QUERIES → IMCODE003 / CAR-PRISM / satri earlier-line
+
