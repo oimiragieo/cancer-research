@@ -211,3 +211,10 @@
 - TNBC RCT: Results still ABSENT
 - Rotated NEXT_QUERIES → RedirecTT NEJM FU / BNT122 OS / zolb-satri
 
+## Tick 25 — 2026-09-09 (Ralph wake #25)
+
+- RedirecTT NEJM extended FU: still ABSENT beyond primary
+- BNT122 OS tables: still ABSENT
+- Zolb→satri H2H: still ABSENT
+- Rotated NEXT_QUERIES → MonumenTAL / LOTIS / IMCODE003
+

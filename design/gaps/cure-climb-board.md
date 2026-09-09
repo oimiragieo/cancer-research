@@ -448,3 +448,23 @@ Primary append-only board for oncology cure hill-climb (cancer-research analog o
 - Dual-antigen CAR protocol ≠ invent DLT rates
 - Recruiting metastatic vaccine ≠ invent OS
 
+## Update (Ralph wake #25) — 2026-09-09
+
+### Researched
+- RedirecTT-1 NEJM extended FU
+- BNT122-01 DSMB OS tables
+- Zolbetuximab vs satri-cel H2H
+
+### Banked progress
+- (none new)
+
+### Negatives held
+- RedirecTT NEJM extended FU ABSENT
+- BNT122 OS tables ABSENT
+- Zolb→satri H2H ABSENT
+
+### Do not equate
+- Haematologica abstract ≠ invent Ph3 KM
+- Press OS imbalance ≠ invent arm counts
+- Sequencing review ≠ invent H2H
+

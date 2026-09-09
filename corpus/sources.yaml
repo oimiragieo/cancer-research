@@ -1253,4 +1253,32 @@ sources:
   topics: [meta, ralph]
   confidence: medium
   summary: "Wake #24: GIANT go/no-go, dual PDAC CAR DLT, TNBC RCT Results all still ABSENT."
+- id: redirectt1-no-nejm-extended-fu-wake25
+  title: RedirecTT-1 — no NEJM extended FU beyond primary (wake #25)
+  url: https://pubmed.ncbi.nlm.nih.gov/41358582/
+  year: 2026
+  topics: [myeloma, bispecific, EMD, negative, hema]
+  confidence: high
+  summary: "Recheck: NEJM primary mFU 12.6mo unchanged; Haematologica P40 already banked; no newer peer OS plateau MS. Hema≠solid."
+- id: bnt122-os-tables-still-absent-wake25
+  title: BNT122-01 CRC full DSMB OS tables still ABSENT (wake #25)
+  url: https://www.sec.gov/Archives/edgar/data/1776985/000177698526000061/a991260828_bntxxcrcxenxfin.htm
+  year: 2026
+  topics: [vaccine, CRC, negative, press-neq-peer]
+  confidence: high
+  summary: "SEC Exhibit 99.1 still the disclosure; counts/HR/KM unpublished."
+- id: zolb-satri-h2h-still-absent-wake25
+  title: Prospective zolbetuximab→satri-cel H2H still ABSENT (wake #25)
+  url: https://doi.org/10.2147/cmar.s611187
+  year: 2026
+  topics: [CLDN18.2, sequencing, negative]
+  confidence: high
+  summary: "Sequencing reviews only; no prospective H2H cure-fraction RCT."
+- id: wake25-bank
+  title: Ralph wake #25 bank summary
+  url: https://pubmed.ncbi.nlm.nih.gov/41358582/
+  year: 2026
+  topics: [meta, ralph]
+  confidence: medium
+  summary: "Wake #25: RedirecTT NEJM FU, BNT122 OS tables, zolb→satri H2H all still ABSENT."
 
